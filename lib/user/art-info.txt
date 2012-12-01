@@ -1,0 +1,553 @@
+Artefact Spoilers for Sil 1.0
+=============================
+
+
+Blades
+======
+
+The Broken Sword of Amras (+1,1d5)     1.0 lb
+---------------------------------------------
+It improves your stealth and perception by 2.  It is branded with flame.  
+It provides resistance to fire.  It cannot be harmed by the elements.  
+(level 10 / rarity 20 / quality 59)
+
+
+The Dagger of Nargil (+5,1d5)     0.5 lb
+----------------------------------------
+It cuts easily through armour.  It can be thrown effectively (13 squares).
+It cannot be harmed by the elements.  
+(level 7 / rarity 10 / quality 56)
+
+
+The Dagger of Azaghal (+1,1d6)     1.0 lb
+-----------------------------------------
+It slays dragons.  It provides resistance to fire and fear.  It can be
+thrown effectively (11 squares).  It cannot be harmed by the elements.  
+(level 13 / rarity 8 / quality 31)
+
+
+The Dagger 'Angrist' (+0,1d5)     0.8 lb
+----------------------------------------
+It cuts very easily through armour.  It can be thrown effectively (12
+squares).  It cannot be harmed by the elements.  
+(level 14 / rarity 5 / quality 40)
+
+
+The Shortsword of Amrod (+1,1d7) [+1]     1.5 lb
+------------------------------------------------
+It improves your stealth and perception by 2.  It cannot be harmed by the
+elements.  
+(level 10 / rarity 10 / quality 24)
+
+
+The Shortsword 'Dagmor' (+2,1d7) [+1]     2.0 lb
+------------------------------------------------
+It increases your grace by 1.  It provides resistance to fear.  It lights
+the dungeon around you.  It cannot be harmed by the elements.  
+(level 15 / rarity 10 / quality 36)
+
+
+The Longsword 'Orcrist' (+2,2d5) [+2]     3.3 lb
+------------------------------------------------
+It improves your perception by 2.  It slays orcs and trolls.  It cannot be
+harmed by the elements.  
+(level 7 / rarity 15 / quality 35)
+
+
+The Longsword 'Narsil' (+1,2d5) [+2]     2.5 lb
+-----------------------------------------------
+It provides resistance to cold and fire.  It lights the dungeon around you.
+It cannot be harmed by the elements.  
+(level 11 / rarity 25 / quality 37)
+
+
+The Longsword 'Glamdring' (+3,2d5) [+3]     3.3 lb
+--------------------------------------------------
+It improves your will by 3.  It slays orcs, trolls, dragons, and raukar.  
+It cannot be harmed by the elements.  
+(level 15 / rarity 20 / quality 62)
+
+
+The Longsword 'Aranruth' (+2,2d5) [+2]     4.0 lb
+-------------------------------------------------
+It improves your will by 4.  It provides resistance to fear.  It draws
+powerful creatures to your level.  It cannot be harmed by the elements.  
+(level 20 / rarity 30 / quality 43)
+
+
+The Bastard Sword 'Anglachel' (+3,3d3) [+1]     5.0 lb
+------------------------------------------------------
+It cuts easily through armour.  It draws powerful creatures to your level.
+It cannot be harmed by the elements.  It does extra damage when wielded
+with both hands.  
+(level 15 / rarity 15 / quality 52)
+
+
+The Bastard Sword 'Anguirel' (+3,3d3) [+1]     5.0 lb
+-----------------------------------------------------
+It cuts easily through armour.  It increases your hunger.  It cannot be
+harmed by the elements.  It does extra damage when wielded with both
+hands.  
+(level 15 / rarity 15 / quality 52)
+
+
+The Greatsword 'Glend' (-1,3d6) [+1]     12.0 lb
+------------------------------------------------
+It increases your strength by 1.  It sustains your strength.  It cannot be
+harmed by the elements.  It requires both hands to wield it properly.  
+(level 12 / rarity 1 / quality 25)
+
+
+The Greatsword of Saithnar (+1,3d5) [+1]     7.0 lb
+---------------------------------------------------
+It slays undead.  It cuts easily through armour.  It grants you freedom of
+movement and the ability to see invisible creatures.  It cannot be harmed
+by the elements.  It requires both hands to wield it properly.  
+(level 17 / rarity 20 / quality 36)
+
+
+The Greatsword 'Calris' (-5,3d7) [+1]     7.5 lb
+------------------------------------------------
+It increases your constitution by 1.  It slays spiders, dragons, and 
+raukar.  It enrages nearby creatures.  It cannot be harmed by the
+elements.  It requires both hands to wield it properly.  
+(level 15 / rarity 15 / quality 29)
+
+
+The Mithril Longsword 'Celeg Aithorn' (+3,2d5) [+1]     2.0 lb
+--------------------------------------------------------------
+It is branded with lightning.  It cuts easily through armour.  It cannot
+be harmed by the elements.  
+(level 20 / rarity 50 / quality 33)
+
+
+The Mithril Longsword 'Ringil' (+3,2d5) [+3]     2.0 lb
+-------------------------------------------------------
+It increases your dexterity by 1.  It is branded with frost.  It provides
+resistance to cold.  It lights the dungeon around you.  It cannot be
+harmed by the elements.  
+(level 20 / rarity 30 / quality 67)
+
+
+The Deathblade 'Delmereth' (+3,1d9) [+1]     2.0 lb
+---------------------------------------------------
+It improves your stealth by 2.  It drains life from your enemies.  It 
+increases your hunger.  It cannot be harmed by the elements.  
+(level 18 / rarity 1 / quality 40)
+
+
+
+
+Axes/Polearms
+=============
+
+The Spear of Boldog (+0,1d10)     5.0 lb
+----------------------------------------
+It slays wolves.  It provides resistance to fear.  It can be thrown
+effectively (4 squares).  It cannot be harmed by the elements.  It does
+extra damage when wielded with both hands.  It counts as a type of
+polearm.  
+(level 8 / rarity 1 / quality 28)
+
+
+The Spear 'Aeglos' (+1,1d9)     3.0 lb
+--------------------------------------
+It is branded with frost.  It provides resistance to cold.  It can be
+thrown effectively (6 squares).  It cannot be harmed by the elements.  It
+does extra damage when wielded with both hands.  It counts as a type of
+polearm.  
+(level 14 / rarity 15 / quality 32)
+
+
+The Great Spear of Ogbar (+1,1d13) [+1]     6.0 lb
+--------------------------------------------------
+It cuts easily through armour.  It cannot be harmed by the elements.  It
+requires both hands to wield it properly.  It counts as a type of polearm.
+
+(level 10 / rarity 30 / quality 18)
+
+
+The Great Spear of Melkor (-1,1d13) [+1]     8.0 lb
+---------------------------------------------------
+It decreases your grace by 1.  It is branded with venom.  It is heavily
+cursed.  It cannot be harmed by the elements.  It requires both hands to
+wield it properly.  It counts as a type of polearm.  
+(level 15 / rarity 50 / quality 6)
+
+
+The Battle Axe 'Dramborleg' (-2,3d5)     5.0 lb
+-----------------------------------------------
+It slays orcs, trolls, and raukar.  It cannot be harmed by the elements.  
+It does extra damage when wielded with both hands.  
+(level 12 / rarity 10 / quality 30)
+
+
+The Battle Axe of Hurin (-3,3d6)     4.5 lb
+-------------------------------------------
+It increases your constitution by 1.  It improves your will by 1.  It
+slays trolls.  It provides resistance to fear.  It cannot be harmed by the
+elements.  It grants you the ability: Song of Slaying.  It does extra
+damage when wielded with both hands.  
+(level 15 / rarity 10 / quality 53)
+
+
+The Great Axe of Nogrod (-4,4d5)     11.0 lb
+--------------------------------------------
+It increases your strength by 1.  It slays orcs, trolls, and raukar.  It
+provides resistance to fire.  It cannot be harmed by the elements.  It
+requires both hands to wield it properly.  
+(level 18 / rarity 15 / quality 32)
+
+
+The Glaive of Gaurin (-1,2d8) [+1]     7.5 lb
+---------------------------------------------
+It improves your tunneling by 3.  It cuts easily through armour.  It
+cannot be harmed by the elements.  It requires both hands to wield it
+properly.  It counts as a type of polearm.  
+(level 10 / rarity 30 / quality 36)
+
+
+The Halberd 'Celebrist' (+0,2d10) [+3]     5.0 lb
+-------------------------------------------------
+It increases your dexterity by 1.  It decreases your constitution by 1.  
+It grants you freedom of movement.  It cannot be harmed by the elements.  
+It requires both hands to wield it properly.  It counts as a type of
+polearm.  
+(level 13 / rarity 8 / quality 33)
+
+
+
+
+Blunt Weapons
+=============
+
+The Quarterstaff of Halmir (+0,2d4) [+3]     4.0 lb
+---------------------------------------------------
+It provides resistance to poison.  It sustains your strength and 
+constitution.  It cannot be harmed by the elements.  It requires both
+hands to wield it properly.  
+(level 9 / rarity 30 / quality 19)
+
+
+The War Hammer of Telchar (+0,4d1)     4.5 lb
+---------------------------------------------
+It improves your smithing by 3.  It provides resistance to fire.  It
+sustains your strength.  It cannot be harmed by the elements.  It does
+extra damage when wielded with both hands.  
+(level 11 / rarity 30 / quality 40)
+
+
+The Mighty Hammer 'Grond' (-7,6d5)     100.0 lb
+-----------------------------------------------
+It improves your tunneling by 3.  It enrages nearby creatures.  It cannot
+be harmed by the elements.  It requires both hands to wield it properly.  
+(level 20 / rarity 1 / quality 29)
+
+
+
+
+Bows
+====
+
+The Shortbow of Celegorm (+1,1d8)     2.0 lb
+--------------------------------------------
+It decreases your grace by 1.  It slays wolves, orcs, trolls, and spiders.
+It cannot be harmed by the elements.  It can shoot arrows 15 squares (with
+your current strength).
+(level 7 / rarity 10 / quality 30)
+
+
+The Longbow 'Belthronding' (+1,1d11) [-1]     3.0 lb
+----------------------------------------------------
+It improves your perception by 1.  It cannot be harmed by the elements.  
+It can shoot arrows 20 squares (with your current strength).
+(level 14 / rarity 10 / quality 32)
+
+
+The Dragon-horn Longbow of Earendil (+1,2d7) [-1]     4.5 lb
+------------------------------------------------------------
+It slays dragons.  It fires shining arrows.  It cannot be harmed by the
+elements.  It can shoot arrows 20 squares (with your current strength).
+(level 20 / rarity 5 / quality 24)
+
+
+
+
+Diggers
+=======
+
+The Mattock 'Burkfelek' (-4,6d2)     11.0 lb
+--------------------------------------------
+It improves your tunneling by 3.  It cannot be harmed by the elements.  It
+requires both hands to wield it properly.  
+(level 20 / rarity 8 / quality 22)
+
+
+
+
+Body Armor
+==========
+
+The Filthy Rag of Dungalef [+1]     2.0 lb
+------------------------------------------
+It cannot be harmed by the elements.  It grants you the ability: Disguise.
+
+(level 5 / rarity 10 / quality 11)
+
+
+The Robe of Aradhel [+2]     3.0 lb
+-----------------------------------
+It sustains your grace.  It grants you freedom of movement.  It cannot be
+harmed by the elements.  
+(level 17 / rarity 10 / quality 22)
+
+
+The Robe of Idril Celebrindal     3.0 lb
+----------------------------------------
+It grants you great speed.  It cannot be harmed by the elements.  
+(level 21 / rarity 20 / quality 25)
+
+
+The Leather Armour of Caranthir [+1,1d4]     6.0 lb
+---------------------------------------------------
+It improves your stealth by 3.  It creates an unnatural darkness.  It
+cannot be harmed by the elements.  
+(level 8 / rarity 15 / quality 25)
+
+
+The Studded Leather of Beor [-1,1d6]     12.0 lb
+------------------------------------------------
+It provides resistance to poison.  It sustains your grace.  It cannot be
+harmed by the elements.  
+(level 8 / rarity 20 / quality 17)
+
+
+The Galvorn Armour of Maeglin [-1,2d4]     7.0 lb
+-------------------------------------------------
+It improves your smithing by 3.  It provides resistance to poison.  It 
+increases your hunger.  It cannot be harmed by the elements.  
+(level 15 / rarity 3 / quality 29)
+
+
+The Mail Corslet of Fingon [-3,2d4]     26.0 lb
+-----------------------------------------------
+It increases your constitution by 1.  It provides resistance to fear.  It
+cannot be harmed by the elements.  
+(level 8 / rarity 15 / quality 20)
+
+
+The Mail Corslet of Durin (-1) [-3,2d5]     28.0 lb
+---------------------------------------------------
+It provides resistance to cold and fire.  It speeds your regeneration
+(which also increases your hunger).  It cannot be harmed by the elements.  
+
+(level 13 / rarity 20 / quality 35)
+
+
+The Long Corslet of Maedhros (-2) [-3,2d7]     33.0 lb
+------------------------------------------------------
+It provides resistance to fire and poison.  It cannot be harmed by the
+elements.  
+(level 13 / rarity 8 / quality 46)
+
+
+
+
+Cloaks
+======
+
+The Cloak of Maglor [+1]     2.0 lb
+-----------------------------------
+It improves your song by 2.  It cannot be harmed by the elements.  It
+grants you the ability: Unwavering Voice.  
+(level 13 / rarity 10 / quality 17)
+
+
+The Cloak of Thingol [+2]     1.5 lb
+------------------------------------
+It provides resistance to cold and fire.  It grants you freedom of movement.
+It cannot be harmed by the elements.  
+(level 22 / rarity 20 / quality 33)
+
+
+The Shadow Cloak of Luthien [+4]     0.7 lb
+-------------------------------------------
+It improves your stealth by 4.  It sustains your grace.  It creates an
+unnatural darkness.  It cannot be harmed by the elements.  It grants you
+the ability: Song of Lorien.  
+(level 14 / rarity 10 / quality 49)
+
+
+The Wolf-Hame of Draugluin (-3) [-3,1d4]     13.0 lb
+----------------------------------------------------
+It improves your stealth by 2.  It cannot be harmed by the elements.  It
+grants you the ability: Disguise.  
+(level 20 / rarity 1 / quality 22)
+
+
+The Bat-Fell of Thuringwethil (-1) [+2]     5.0 lb
+--------------------------------------------------
+It improves your stealth by 2.  It cannot be harmed by the elements.  It
+grants you the ability: Disguise.  
+(level 23 / rarity 1 / quality 26)
+
+
+
+
+Shields
+=======
+
+The Round Shield of Angrod [+0,1d3]     5.0 lb
+----------------------------------------------
+It provides resistance to fire, confusion, and stunning.  It cannot be
+harmed by the elements.  
+(level 10 / rarity 10 / quality 18)
+
+
+The Kite Shield of Hador (-2) [+0,1d6]     9.0 lb
+-------------------------------------------------
+It provides resistance to cold and fire.  It cannot be harmed by the
+elements.  
+(level 8 / rarity 10 / quality 20)
+
+
+The Kite Shield of Fingolfin (-2) [+0,1d8]     7.0 lb
+-----------------------------------------------------
+It increases your constitution by 1.  It provides resistance to fear.  It
+sustains your constitution.  It cannot be harmed by the elements.  
+(level 13 / rarity 15 / quality 29)
+
+
+
+
+Helms/Crowns
+============
+
+The Helm of Curufin (-1) [+0,1d2]     4.5 lb
+--------------------------------------------
+It improves your stealth, perception, and will by 1.  It provides
+resistance to confusion.  It grants you the ability to see invisible
+creatures.  It cannot be harmed by the elements.  
+(level 25 / rarity 12 / quality 31)
+
+
+The Great Helm of Dor-Lomin [-2,1d4]     9.0 lb
+-----------------------------------------------
+It increases your strength by 1.  It improves your will by 1.  It provides
+resistance to fear and stunning.  It cannot be harmed by the elements.  
+(level 20 / rarity 15 / quality 27)
+
+
+The Jewelled Crown of Feanor [+0,1d1]     3.5 lb
+------------------------------------------------
+It improves your will and smithing by 3.  It provides resistance to fire.  
+It lights the dungeon around you.  It grants you the ability to see
+invisible creatures, but it also enrages nearby creatures.  It cannot be
+harmed by the elements.  
+(level 25 / rarity 30 / quality 70)
+
+
+The Massive Iron Crown of Morgoth     399.4 lb
+----------------------------------------------
+It cannot be harmed by the elements.  
+(level 20 / rarity 1 / quality 10)
+
+
+The Massive Iron Crown of Morgoth     399.6 lb
+----------------------------------------------
+It cannot be harmed by the elements.  
+(level 20 / rarity 1 / quality 10)
+
+
+The Massive Iron Crown of Morgoth     399.8 lb
+----------------------------------------------
+It cannot be harmed by the elements.  
+(level 20 / rarity 1 / quality 10)
+
+
+The Massive Iron Crown of Morgoth     400.0 lb
+----------------------------------------------
+It cannot be harmed by the elements.  
+(level 20 / rarity 1 / quality 10)
+
+
+
+
+Gloves
+======
+
+The Set of Leather Gloves of Celebrimbor [+0,1d1]     0.3 lb
+------------------------------------------------------------
+It improves your smithing by 4.  It grants you freedom of movement.  It
+cannot be harmed by the elements.  
+(level 10 / rarity 15 / quality 45)
+
+
+The Set of Gauntlets of Gamil Zirak (-1) [+0,1d2]     4.0 lb
+------------------------------------------------------------
+It improves your smithing by 3.  It provides resistance to fire.  It
+cannot be harmed by the elements.  
+(level 15 / rarity 15 / quality 31)
+
+
+
+
+Boots
+=====
+
+The Pair of Leather Boots of Finrod [+3,1d1]     2.0 lb
+-------------------------------------------------------
+It grants you freedom of movement.  It cannot be harmed by the elements.  
+(level 15 / rarity 10 / quality 26)
+
+
+The Pair of Steel Greaves of Orodreth [-1,1d2]     7.0 lb
+---------------------------------------------------------
+It increases your dexterity by 1.  It provides resistance to fire.  It
+cannot be harmed by the elements.  
+(level 10 / rarity 20 / quality 21)
+
+
+
+
+Light Sources
+=============
+
+
+
+Amulets
+=======
+
+The Pearl 'Nimphelos'     0.3 lb
+--------------------------------
+It increases your grace by 2.  It sustains your grace.  It cannot be
+harmed by the elements.  
+(level 12 / rarity 20 / quality 25)
+
+
+The Jewel 'Elessar'     0.3 lb
+------------------------------
+It increases your constitution by 1.  It speeds your regeneration (which
+also increases your hunger).  It cannot be harmed by the elements.  
+(level 14 / rarity 20 / quality 18)
+
+
+The Necklace of the Dwarves     0.3 lb
+--------------------------------------
+It increases your constitution and grace by 1.  It cannot be harmed by the
+elements.  
+(level 16 / rarity 30 / quality 20)
+
+
+
+
+Rings
+=====
+
+The Serpentine Ring of Barahir     0.1 lb
+-----------------------------------------
+It provides resistance to poison.  It grants you freedom of movement.  It
+cannot be harmed by the elements.  
+(level 10 / rarity 20 / quality 16)
+
+

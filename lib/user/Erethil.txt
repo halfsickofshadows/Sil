@@ -1,0 +1,62 @@
+  [Sil 1.0.2 Character Dump]
+
+ Name   Erethil       Age    2,902       Str   0
+ Sex    Female        Height    6'       Dex   2
+ Race   Noldor        Weight   147       Con   2
+ House  Feanor                           Gra   6
+
+ Game Turn      660   Melee   (+4,3d5)   Melee        4 =  0  +2  +1  +1
+ Exp Pool     8,735   Bows    (+3,0d0)   Archery      3 =  0  +2      +1
+ Total Exp    8,735   Armor   [+3,0-0]   Evasion      3 =  0  +2  +1
+ Burden        14.3                      Stealth      2 =  0  +2
+ Max Burden   100.0   Health     28:28   Perception   6 =  0  +6
+ Depth         400'   Voice      59:59   Will         6 =  0  +6
+ Min Depth      50'                      Smithing     7 =  0  +6      +1
+ Light Radius     2                      Song         6 =  0  +6
+
+ You are one of two children of a bard from the house of Feanor. You
+ have light grey eyes, straight black hair, and a fair complexion.
+
+
+
+
+
+
+  [Equipment]
+
+a) a Bastard Sword (+1,3d5) [+1] {special} 5.0 lb
+   It does extra damage when wielded with both hands.  
+b) (nothing)
+c) (nothing)
+d) (nothing)
+e) (nothing)
+f) a Brass Lantern (with 2728 turns of light)
+g) (nothing)
+h) (nothing)
+i) (nothing)
+j) (nothing)
+k) (nothing)
+l) (nothing)
+m) (nothing)
+n) (nothing)
+
+
+  [Inventory]
+
+a) 3 Fragments of Lembas
+b) 2 Wooden Torches (with 2000 turns of light)
+c) a Wooden Torch (with 1612 turns of light)
+
+
+  [Notes]
+
+Erethil of the Noldor
+Entered Angband on 14 Aug 2012
+
+    Turn     Depth    Note
+
+
+
+
+  ['Score' 008099340]
+

@@ -1,0 +1,1214 @@
+Monster Spoilers for Sil Version 1.0
+------------------------------------------
+
+The Orc scout  (L.Dark 'o')
+=== Num:11  Lev:1  Rar:4  Spd:2  Hp:5d4  He is one of Morgoth's grim
+mockeries of the firstborn. the scrawny creature tries to stay away from
+you and  attract attention. It has a crude sword.
+This orc is normally found at depths of 50 feet.  He may attempt to call
+for help.  He can open doors and unlock doors.  He is vulnerable to bright
+light.  He can hit to attack (+1, 2d5).  He has 5d4 health and a defence
+of [+1, 1d4].  He has 1 Will, 5 Perception, and is sometimes found asleep.
+He may carry an object.  
+
+The Wolf  (Umber 'C')
+=== Num:12  Lev:1  Rar:1  Spd:3  Hp:7d4  It howls and snaps at you.
+This wolf is normally found at depths of 50 feet, and moves a bit
+erratically, and quickly.  It is unintelligent.  It usually appears in
+groups.  It can bite to attack (+1, 2d4).  It has 7d4 health and a defence
+of [+2, 1d4].  It has 1 Will, 4 Perception, and often found asleep.  
+
+The Grey mold  (Slate 'm')
+=== Num:13  Lev:1  Rar:1  Spd:2  Hp:8d4  It is a strange growth on the
+dungeon floor.
+This creature is normally found at depths of 50 feet, and cannot move.  It
+cannot be critically hit.  It is mindless.  It resists poison.  It cannot
+be frightened, confused or put to sleep.  It can release spores to attack
+(+0, 1d4).  It has 8d4 health and a defence of [-5, 2d4].  
+
+The Giant bat  (L.Dark 'b')
+=== Num:21  Lev:2  Rar:1  Spd:4  Hp:2d4  It screeches as it attacks.
+This creature is normally found at depths of 100 feet, and moves somewhat
+erratically, and very quickly.  It does not deign to pursue you.  It is
+unintelligent.  It can bite to attack (+6, 2d3).  It has 2d4 health and a
+defence of [+7, 1d4].  
+
+The White worm mass  (White 'w')
+=== Num:22  Lev:2  Rar:1  Spd:1  Hp:6d4  It is a large slimy mass of worms.
+
+This creature is normally found at depths of 100 feet, and moves extremely
+erratically, and slowly.  It does not deign to pursue you.  It breeds
+explosively.  It is resistant to critical hits.  It is mindless.  It
+resists poison.  It cannot be frightened or confused.  It sometimes
+appears in groups.  It can crawl on you to poison (+2, 1d5).  It has 6d4 
+health and a defence of [+0].  
+
+The Orc soldier  (Slate 'o')
+=== Num:31  Lev:3  Rar:1  Spd:2  Hp:8d4  He is one of Morgoth's grim
+mockeries of the firstborn. He wears black leathers with a crude sword and
+shield.
+This orc is normally found at depths of 150 feet.  He can open doors and 
+bash down doors.  He is vulnerable to bright light.  He usually appears in
+groups.  He can hit to attack (+1, 2d7).  He has 8d4 health and a defence
+of [+2, 2d4].  He has 2 Will, 3 Perception, and is sometimes found asleep.
+He may carry an object.  
+
+The Brown mold  (Umber 'm')
+=== Num:32  Lev:3  Rar:1  Spd:2  Hp:8d4  It is a strange growth on the
+dungeon floor.
+This creature is normally found at depths of 150 feet, and cannot move.  
+It cannot be critically hit.  It is mindless.  It resists poison.  It
+cannot be frightened, confused or put to sleep.  It can release spores to 
+confuse (+0, 1d4).  It has 8d4 health and a defence of [-5, 2d4].  
+
+The Metallic green centipede  (Green 'c')
+=== Num:33  Lev:3  Rar:1  Spd:3  Hp:3d4  It is a four foot long centipede,
+scurrying towards you. It is protected by a thick, metallic green carapace.
+
+This creature is normally found at depths of 150 feet, and moves somewhat
+erratically, and quickly.  It does not deign to pursue you.  It is
+unintelligent.  It can bite to attack (+4, 2d4).  It has 3d4 health and a
+defence of [+3, 4d4].  
+
+The White wolf  (White 'C')
+=== Num:41  Lev:4  Rar:1  Spd:3  Hp:9d4  A large and muscled wolf from the
+northern wastes.
+This wolf is normally found at depths of 200 feet, and moves a bit
+erratically, and quickly.  It is unintelligent.  It resists cold.  It
+usually appears in groups.  It can bite to attack (+4, 2d5).  It has 9d4 
+health and a defence of [+5, 1d4].  
+
+The Crebain  (Slate 'b')
+=== Num:42  Lev:4  Rar:2  Spd:4  Hp:1d4  A type of crow, specially bred by
+the forces of evil as spies.
+This creature is normally found at depths of 200 feet, and moves very
+quickly.  It may attempt to call for help.  It is unintelligent.  It
+usually appears in groups.  It can peck to wound (+10, 1d5).  It has 1d4 
+health and a defence of [+9].  
+
+The Green worm mass  (Green 'w')
+=== Num:43  Lev:4  Rar:2  Spd:1  Hp:6d4  It is a large slimy mass of worms.
+
+This creature is normally found at depths of 200 feet, and moves extremely
+erratically, and slowly.  It does not deign to pursue you.  It breeds
+explosively.  It is resistant to critical hits.  It is mindless.  It
+cannot be frightened or confused.  It sometimes appears in groups.  It can 
+crawl on you to corrode (+4, 2d5).  It has 6d4 health and a defence of 
+[+0].  
+
+The Orc archer  (L.Umber 'o')
+=== Num:51  Lev:5  Rar:3  Spd:2  Hp:7d4  He is one of Morgoth's grim
+mockeries of the firstborn.
+This orc is normally found at depths of 250 feet.  He may fire a shortbow
+(+6, 1d7).  He can open doors and bash down doors.  He is vulnerable to 
+bright light.  He usually appears in groups.  He can hit to attack (+5,
+2d5).  He has 7d4 health and a defence of [+4, 1d4].  He has 3 Will, 3
+Perception, and is sometimes found asleep.  He may carry an object.  
+
+The Violet mold  (Violet 'm')
+=== Num:52  Lev:5  Rar:2  Spd:2  Hp:8d4  It is a strange growth on the
+dungeon floor.
+This creature is normally found at depths of 250 feet, and cannot move.  
+It cannot be critically hit.  It is mindless.  It resists poison.  It
+cannot be frightened, confused or put to sleep.  It can release spores to 
+reduce constitution (+0, 1d4).  It has 8d4 health and a defence of [-5,
+2d4].  
+
+The Sword spider  (Slate 'M')
+=== Num:53  Lev:5  Rar:1  Spd:3  Hp:12d4  A giant black spider with
+sword-sharp mandibles. It skitters back and forth.
+This spider is normally found at depths of 250 feet, and moves quickly.  
+It does not deign to pursue you.  It is unintelligent.  It can bite to 
+attack (+7, 2d9).  It has 12d4 health and a defence of [+6, 1d4].  
+
+The Hummerhorn  (Yellow 'I')
+=== Num:54  Lev:5  Rar:3  Spd:4  Hp:1d4  A giant buzzing wasp, its stinger
+drips venom.
+This creature is normally found at depths of 250 feet, and moves extremely
+erratically, and very quickly.  It does not deign to pursue you.  It is
+unintelligent.  It usually appears in groups.  It can sting to confuse
+(+10, 1d7).  It has 1d4 health and a defence of [+11].  
+
+[U] Gorgol, the Butcher  (L.Green 'o')
+=== Num:55  Lev:5  Rar:10  Spd:2  Hp:30  A captain of a orcish band,
+Gorgol keeps his troop in order with displays of excessive violence.
+This orc is normally found at depths of 250 feet.  He can open doors, 
+unlock doors and bash down doors.  He is vulnerable to bright light.  He
+usually appears with escorts.  He can hit to attack (+6, 3d7).  He has 30 
+health and a defence of [+4, 3d4].  He may carry a good object.  
+
+The Orc warrior  (L.Slate 'o')
+=== Num:61  Lev:6  Rar:1  Spd:2  Hp:9d4  An armoured orc with a battle axe.
+
+This orc is normally found at depths of 300 feet.  He can open doors and 
+bash down doors.  He is vulnerable to bright light.  He usually appears in
+groups.  He can hit to attack (+3, 3d7).  He has 9d4 health and a defence
+of [+5, 2d4].  He has 4 Will, 4 Perception, and is sometimes found asleep.
+He may carry an object.  
+
+The Gorcrow  (L.Dark 'b')
+=== Num:62  Lev:6  Rar:2  Spd:4  Hp:1d4  A dark creature, related to the
+crow. It pecks at any exposed flesh, especially the face and eyes.
+This creature is normally found at depths of 300 feet, and moves a bit
+erratically, and very quickly.  It is unintelligent.  It sometimes appears
+in groups.  It can peck to blind (+12, 1d5).  It has 1d4 health and a
+defence of [+11].  
+
+The Clear worm mass  (L.Slate 'w')
+=== Num:63  Lev:6  Rar:4  Spd:1  Hp:6d4  It is a disgusting mass of
+poisonous worms.
+This creature is normally found at depths of 300 feet, and moves extremely
+erratically, and slowly.  It does not deign to pursue you.  It is very
+difficult to see.  It breeds explosively.  It is resistant to critical
+hits.  It is mindless.  It resists poison.  It cannot be frightened or 
+confused.  It sometimes appears in groups.  It can crawl on you to poison
+(+6, 1d5).  It has 6d4 health and a defence of [+1].  
+
+The Mewlip  (Umber 'H')
+=== Num:64  Lev:6  Rar:3  Spd:2  Hp:14d4  An evil swamp dwelling creature
+that feeds on the bones of those who draw near.
+This creature is normally found at depths of 300 feet.  It may attempt to 
+remove memories or terrify.  It can open doors, unlock doors and bash down
+doors.  It cannot be frightened.  It can claw to wound (+8, 3d4).  It has 
+14d4 health and a defence of [+4, 2d4].  It may carry an object.  
+
+The Orc thief  (Green 'o')
+=== Num:71  Lev:7  Rar:3  Spd:2  Hp:7d4  He is one of Morgoth's grim
+mockeries of the firstborn.
+This orc is normally found at depths of 350 feet.  He can open doors, 
+unlock doors, bash down doors and pick up objects.  He is vulnerable to 
+bright light.  He can hit to attack (+10, 1d8), or touch to steal items
+(+7).  He has 7d4 health and a defence of [+10, 1d4].  He has 4 Will, 6
+Perception, and is never found asleep.  He may carry an object.  
+
+The Shadow mold  (L.Dark 'm')
+=== Num:72  Lev:7  Rar:1  Spd:2  Hp:8d4  A strange dark growth on the
+dungeon floor.
+This creature is normally found at depths of 350 feet, and cannot move.  
+It can produce an unnatural darkness.  It cannot be critically hit.  It is
+mindless.  It resists poison.  It cannot be frightened, confused or put to
+sleep.  It can release spores to darken (+0, 2d4).  It has 8d4 health and
+a defence of [-5, 2d4].  
+
+The Metallic red centipede  (Red 'c')
+=== Num:73  Lev:7  Rar:1  Spd:3  Hp:3d4  It is about four feet long and
+carnivorous.
+This creature is normally found at depths of 350 feet, and moves a bit
+erratically, and quickly.  It does not deign to pursue you.  It is
+unintelligent.  It can bite to attack (+8, 2d6).  It has 3d4 health and a
+defence of [+7, 4d4].  
+
+The Easterling spy  (L.Dark '@')
+=== Num:74  Lev:7  Rar:3  Spd:2  Hp:6d4  Yet neither by wolf, nor by
+Balrog, nor by Dragon, would Morgoth have achieved his end, but for the
+treachery of Men. He is of a people who have come recently to Beleriand
+out of the far east, and have fallen under Morgoth's sway.
+This creature is normally found at depths of 350 feet.  He may fire a
+shortbow (+7, 1d7).  He may attempt to call for help.  He can use a light
+source, open doors and unlock doors.  He can hit to attack (+7, 1d8).  He
+has 6d4 health and a defence of [+8, 1d4].  He may carry an object.  
+
+The Orc champion  (Blue 'o')
+=== Num:81  Lev:8  Rar:2  Spd:2  Hp:11d4  A champion of the orc hordes. He
+wears well-fitting armor and wields a battle axe.
+This orc is normally found at depths of 400 feet.  He can open doors and 
+bash down doors.  He is vulnerable to bright light.  He can hit to attack
+(+6, 3d8).  He has 11d4 health and a defence of [+5, 3d4].  He has 5 Will,
+4 Perception, and is sometimes found asleep.  He may carry an object.  
+
+The Violet worm mass  (Violet 'w')
+=== Num:82  Lev:8  Rar:3  Spd:1  Hp:6d4  It is a large slimy mass of worms.
+
+This creature is normally found at depths of 400 feet, and moves extremely
+erratically, and slowly.  It does not deign to pursue you.  It breeds
+explosively.  It is resistant to critical hits.  It is mindless.  It
+cannot be frightened or confused.  It sometimes appears in groups.  It can 
+crawl on you to reduce strength (+5, 3d5).  It has 6d4 health and a
+defence of [+3].  
+
+The Mountain troll  (L.Slate 'T')
+=== Num:83  Lev:8  Rar:1  Spd:2  Hp:15d4  A tall troll from the mountains
+of the north.
+This troll is normally found at depths of 400 feet.  He can open doors and 
+bash down doors.  He regenerates quickly.  He is vulnerable to bright light.
+He cannot be frightened.  He sometimes appears in groups.  He can hit to 
+stun (+6, 4d5).  He has 15d4 health and a defence of [+4, 2d4].  He may
+carry an object.  
+
+The Grave wight  (L.Umber 'W')
+=== Num:84  Lev:8  Rar:2  Spd:2  Hp:4d4  It is a ghostly form with eyes
+that haunt you.
+This undead creature is normally found at depths of 400 feet.  It does not
+deign to pursue you.  It may attempt to create darkness.  It can open doors.
+It is resistant to critical hits.  It is vulnerable to bright light.  It
+resists cold and poison.  It cannot be frightened, confused or put to sleep.
+It can hit to attack (+10, 2d9), or touch to slow (+10).  It has 4d4 
+health and a defence of [+6, 2d4].  It may be found with an object.  
+
+The Easterling warrior  (L.Slate '@')
+=== Num:85  Lev:8  Rar:2  Spd:2  Hp:10d4  Yet neither by wolf, nor by
+Balrog, nor by Dragon, would Morgoth have achieved his end, but for the
+treachery of Men. He is of a people who have come recently to Beleriand
+out of the far east, and have fallen under Morgoth's sway.
+This creature is normally found at depths of 400 feet.  He can use a light
+source, open doors and bash down doors.  He usually appears in groups.  He
+can hit to attack (+7, 2d8).  He has 10d4 health and a defence of [+5,
+3d4].  He may carry an object.  
+
+[U] Boldog, the Merciless  (Yellow 'o')
+=== Num:86  Lev:8  Rar:20  Spd:2  Hp:32  A great captain of the orcs.
+This orc is normally found at depths of 400 feet.  He may fire a longbow
+(+10, 1d11).  He can open doors, unlock doors and bash down doors.  He is
+vulnerable to bright light.  He usually appears with many escorts.  He can 
+hit to attack (+12, 1d14).  He has 32 health and a defence of [+7, 3d4].  
+He may carry one or two good objects.  
+
+The Orc captain  (Red 'o')
+=== Num:91  Lev:9  Rar:3  Spd:2  Hp:10d4  An armoured orc with a sword and
+whip. He leads a patrol of lesser orcs.
+This orc is normally found at depths of 450 feet.  He can open doors, 
+unlock doors and bash down doors.  He is vulnerable to bright light.  He
+usually appears with escorts.  He can hit to attack (+10, 2d8), or whip to 
+disarm (+6, 2d4).  He has 10d4 health and a defence of [+7, 3d4].  He may
+carry one or two objects.  
+
+The Distended spider  (Umber 'M')
+=== Num:92  Lev:9  Rar:1  Spd:2  Hp:18d4  It is a vast spider whose
+bulbous body is bloated with poison.
+This spider is normally found at depths of 450 feet.  It does not deign to
+pursue you.  It can bash down doors.  It is unintelligent.  It resists 
+poison.  It can bite to poison (+6, 2d11).  It has 18d4 health and a
+defence of [+6].  It has 6 Will, 5 Perception, and is sometimes found
+asleep.  
+
+The Giant green dragonfly  (L.Green 'I')
+=== Num:93  Lev:9  Rar:2  Spd:4  Hp:5d4  A vast, iridescent green
+dragonfly.
+This creature is normally found at depths of 450 feet, and moves extremely
+erratically, and very quickly.  It does not deign to pursue you.  It is
+unintelligent.  It can sting to induce hallucinations (+15, 1d7).  It has 
+5d4 health and a defence of [+15].  It has 6 Will, 6 Perception, and is
+quick to notice intruders.  
+
+The Easterling archer  (Umber '@')
+=== Num:94  Lev:9  Rar:5  Spd:2  Hp:9d4  Yet neither by wolf, nor by
+Balrog, nor by Dragon, would Morgoth have achieved his end, but for the
+treachery of Men. He is of a people who have come recently to Beleriand
+out of the far east, and have fallen under Morgoth's sway.
+This creature is normally found at depths of 450 feet.  He may fire a
+longbow (+9, 1d11).  He can use a light source, open doors and bash down
+doors.  He usually appears in groups.  He can hit to attack (+8, 1d7).  He
+has 9d4 health and a defence of [+8, 2d4].  He has 6 Will, 5 Perception,
+and is sometimes found asleep.  He may carry an object.  
+
+The Shadow worm mass  (Slate 'w')
+=== Num:101  Lev:10  Rar:1  Spd:1  Hp:6d4  It is a large slimy mass of
+worms. Darkness enshrouds it.
+This creature is normally found at depths of 500 feet, and moves extremely
+erratically, and slowly.  It does not deign to pursue you.  It can produce
+an unnatural darkness.  It breeds explosively.  It is resistant to
+critical hits.  It is mindless.  It is vulnerable to bright light.  It
+cannot be frightened or confused.  It sometimes appears in groups.  It can 
+crawl on you to darken (+6, 2d5).  It has 6d4 health and a defence of 
+[+5].  It has 6 Will, 3 Perception.  
+
+The Warg  (Slate 'C')
+=== Num:102  Lev:10  Rar:1  Spd:3  Hp:13d4  It is a great wolf with eyes
+full of cunning.
+This wolf is normally found at depths of 500 feet, and moves a bit
+erratically, and quickly.  It can bash down doors.  It usually appears in
+groups.  It can bite to attack (+11, 2d7).  It has 13d4 health and a
+defence of [+11, 2d4].  It has 6 Will, 8 Perception, and often found
+asleep.  
+
+The Barrow wight  (L.Slate 'W')
+=== Num:103  Lev:10  Rar:100  Spd:2  Hp:12d4  It is a ghostly nightmare of
+a entity.
+This undead creature is normally found at depths of 500 feet.  It does not
+deign to pursue you.  It may attempt to create darkness.  It can open doors.
+It is resistant to critical hits.  It is vulnerable to bright light.  It
+resists cold and poison.  It cannot be frightened, confused or put to sleep.
+It can hit to attack (+12, 2d9), or touch to entrace (+12).  It has 12d4 
+health and a defence of [+7, 2d4].  It may be found with an object.  
+
+The Giant violet dragonfly  (Violet 'I')
+=== Num:104  Lev:10  Rar:1  Spd:4  Hp:5d4  A vast, iridescent violet
+dragonfly.
+This creature is normally found at depths of 500 feet, and moves extremely
+erratically, and very quickly.  It does not deign to pursue you.  It is
+unintelligent.  It can sting to reduce dexterity (+16, 1d7).  It has 5d4 
+health and a defence of [+16].  
+
+[U] Uldor, the Accursed  (L.Umber '@')
+=== Num:105  Lev:10  Rar:10  Spd:2  Hp:35  Son of Ulfang, the Black, and
+the leader in the treason against the elves in the Battle of Unnumbered
+Tears.
+This creature is normally found at depths of 500 feet.  He can use a light
+source, open doors, unlock doors, bash down doors and pick up objects.  He
+usually appears with escorts.  He can hit to attack (+14, 2d8).  He has 35 
+health and a defence of [+8, 5d4].  He may carry a good object.  
+
+[U] Orcobal, Champion of the Orcs  (L.Blue 'o')
+=== Num:106  Lev:10  Rar:15  Spd:2  Hp:37  The chief champion of the orcs
+of Morgoth.
+This orc is normally found at depths of 500 feet.  He can open doors and 
+bash down doors.  He is vulnerable to bright light.  He usually appears
+with escorts.  He can hit to attack (+10, 3d9).  He has 37 health and a
+defence of [+9, 3d4].  He may carry one or two good objects.  
+
+The Snow troll  (White 'T')
+=== Num:111  Lev:11  Rar:1  Spd:2  Hp:15d4  He is a white troll with
+powerfully clawed hands.
+This troll is normally found at depths of 550 feet.  He can open doors and 
+bash down doors.  He regenerates quickly.  He is vulnerable to bright light 
+and fire.  He resists cold.  He cannot be frightened.  He sometimes
+appears in groups.  He can hit to stun (+8, 4d6), or bite to freeze (+7,
+2d9).  He has 15d4 health and a defence of [+7, 2d4].  He has 7 Will, 4
+Perception, and is sometimes found asleep.  He may carry an object.  
+
+The Giant bronze dragonfly  (L.Umber 'I')
+=== Num:112  Lev:11  Rar:2  Spd:4  Hp:5d4  This vast gleaming bronze
+dragonfly has wings which beat mesmerically fast.
+This creature is normally found at depths of 550 feet, and moves extremely
+erratically, and very quickly.  It does not deign to pursue you.  It is
+unintelligent.  It can sting to confuse (+17, 1d7).  It has 5d4 health and
+a defence of [+17].  
+
+The Lurking horror  (L.Dark 'H')
+=== Num:113  Lev:11  Rar:5  Spd:2  Hp:10d4  It waits for you in the
+ink-black of the dungeon. It seems to be made entirely of claws and of
+teeth.
+This creature is normally found at depths of 550 feet.  It may attempt to 
+terrify.  It can produce an unnatural darkness and bash down doors.  It is
+unintelligent.  It is vulnerable to bright light.  It cannot be frightened.
+It can bite to entrace (+10, 2d9).  It has 10d4 health and a defence of 
+[+11, 1d4].  
+
+The Giant  (L.Umber 'G')
+=== Num:114  Lev:11  Rar:1  Spd:2  Hp:30d4  As tall as three men, this
+hulking opponent is crudely armed with what may once have been a small
+tree.
+This creature is normally found at depths of 550 feet.  It may throw
+boulders (+6, 6d4).  It can use a light source, open doors and bash down
+doors.  It can hit to attack (+6, 4d9).  It has 30d4 health and a defence
+of [+5, 1d4].  It may carry an object.  
+
+[U] Ulfang the Black  (Slate '@')
+=== Num:115  Lev:11  Rar:10  Spd:2  Hp:37   Ulfang was a great leader of
+the Easterlings and led them in their treachery. He and his sons once
+openly swore allegiance to the High Elves, but were secretly in the pay of
+Morgoth.
+This creature is normally found at depths of 550 feet.  He can use a light
+source, open doors, bash down doors and pick up objects.  He usually
+appears with escorts.  He can hit to attack (+17, 2d8).  He has 37 health 
+and a defence of [+12, 4d4].  He may carry up to 4 good objects.  
+
+[U] Othrond, the Orc Lord  (L.Red 'o')
+=== Num:116  Lev:11  Rar:10  Spd:2  Hp:37  The cruelty in the eyes of this
+massive orc belies the intelligence that has kept him a favourite of the
+black enemy for many years.
+This orc is normally found at depths of 550 feet.  He can open doors, 
+unlock doors and bash down doors.  He is vulnerable to bright light.  He
+usually appears with many escorts.  He can hit to attack (+15, 2d9), or 
+whip to disarm (+12, 2d4).  He has 37 health and a defence of [+10, 4d4].  
+He may carry one or two exceptional objects.  
+
+The Nether worm mass  (L.Dark 'w')
+=== Num:121  Lev:12  Rar:4  Spd:1  Hp:6d4  It is a disgusting mass of dark
+worms, eating each other, the floor, the air, you....
+This creature is normally found at depths of 600 feet, and moves extremely
+erratically, and slowly.  It does not deign to pursue you.  It can bash
+down doors and bore through walls.  It breeds explosively.  It is
+resistant to critical hits.  It is mindless.  It cannot be frightened or 
+confused.  It sometimes appears in groups.  It can crawl on you to reduce
+grace (+11, 3d5).  It has 6d4 health and a defence of [+7].  
+
+The Shadow bat  (L.Dark 'b')
+=== Num:122  Lev:12  Rar:4  Spd:4  Hp:4d4  It screeches as it attacks.
+This creature is normally found at depths of 600 feet, and moves somewhat
+erratically, and very quickly.  It does not deign to pursue you.  It can 
+produce an unnatural darkness.  It is unintelligent.  It is vulnerable to 
+bright light.  It can bite to attack (+17, 2d5).  It has 4d4 health and a
+defence of [+19, 1d4].  
+
+The Sulrauko  (L.Slate 'R')
+=== Num:123  Lev:12  Rar:2  Spd:2  Hp:5d4  A wind spirit, bent to
+Morgoth's will.
+This rauko is normally found at depths of 600 feet, and moves somewhat
+erratically.  It can bash down doors.  It is very difficult to see.  It is
+resistant to critical hits.  It resists poison.  It can hit to stun (+14,
+3d5).  It has 5d4 health and a defence of [+15, 3d4].  
+
+The Fire-drake hatchling  (L.Red 'd')
+=== Num:124  Lev:12  Rar:6  Spd:2  Hp:10d4  Not more than a few months
+old, this young dragon is already as big as a man, and has begun to use
+its fearsome breath.
+This dragon is normally found at depths of 600 feet, and moves a bit
+erratically.  It does not deign to pursue you.  It may breathe fire (6d4). 
+It can bash down doors.  It is unintelligent.  It is vulnerable to cold.  
+It resists fire.  It sometimes appears in groups.  It can bite to burn
+(+13, 2d5).  It has 10d4 health and a defence of [+11, 1d4].  
+
+[U] Gilim, the Giant of Eruman  (Green 'G')
+=== Num:125  Lev:12  Rar:10  Spd:2  Hp:80  Huge even among giants, his
+name is cursed in many lands. He towers above you, swinging a vast hammer.
+This creature is normally found at depths of 600 feet.  He may throw
+boulders (+10, 6d4).  He can use a light source, open doors and bash down
+doors.  He can hit to attack (+9, 4d11).  He has 80 health and a defence
+of [+8, 1d4].  He may carry one or two good objects.  
+
+The Werewolf  (L.Umber 'C')
+=== Num:131  Lev:13  Rar:1  Spd:3  Hp:14d4  No mere wolf, some malevolent
+spirit lurks behind those glowing eyes.
+This wolf is normally found at depths of 650 feet, and moves a bit
+erratically, and quickly.  It can open doors and bash down doors.  It
+sometimes appears in groups.  It can claw to wound (+16, 3d5), or bite to 
+poison (+10, 2d9).  It has 14d4 health and a defence of [+14, 2d4].  
+
+The Shadow spider  (L.Dark 'M')
+=== Num:132  Lev:13  Rar:1  Spd:3  Hp:13d4  It is a great black spider
+wreathed in shadow.
+This spider is normally found at depths of 650 feet, and moves quickly.  
+It does not deign to pursue you.  It can produce an unnatural darkness and 
+bash down doors.  It is unintelligent.  It is vulnerable to bright light.  
+It resists poison.  It can bite to blind (+12, 2d9).  It has 13d4 health 
+and a defence of [+13, 1d4].  
+
+The Shadow  (Dark 'W')
+=== Num:133  Lev:13  Rar:3  Spd:2  Hp:3d4  It seems nothing more than a
+patch of darkness in the room, and yet it stalks you.
+This undead creature is normally found at depths of 650 feet, and moves a
+bit erratically.  It can pass through walls.  It is very difficult to see.
+It is resistant to critical hits.  It is vulnerable to bright light.  It
+resists cold and poison.  It cannot be frightened, confused or put to sleep.
+It can touch to darken (+16, 2d5).  It has 3d4 health and a defence of 
+[+13, 3d4].  
+
+The Sapphire serpent  (Blue 's')
+=== Num:134  Lev:13  Rar:3  Spd:2  Hp:8d4  A great serpent with scales of
+gleaming sapphire. An icy chill surrounds it.
+This serpent is normally found at depths of 650 feet.  It may breathe 
+frost (6d4). It is unintelligent.  It is vulnerable to fire.  It resists 
+cold.  It can bite to freeze (+13, 2d6).  It has 8d4 health and a defence
+of [+9, 5d4].  
+
+[U] Nan, the Giant  (Blue 'G')
+=== Num:135  Lev:13  Rar:30  Spd:2  Hp:87  Taller than most giants, he
+comes at you with the longest sword you have ever beheld.
+This creature is normally found at depths of 650 feet.  He may throw
+boulders (+12, 6d4).  He can use a light source, open doors and bash down
+doors.  He can hit to attack (+14, 3d13).  He has 87 health and a defence
+of [+10, 1d4].  He may carry one or two good objects.  
+
+The Cave troll  (Umber 'T')
+=== Num:141  Lev:14  Rar:1  Spd:2  Hp:15d4  A great brute of a troll, it
+seems to have come from the depths of the very earth.
+This troll is normally found at depths of 700 feet.  He can open doors and 
+bash down doors.  He regenerates quickly.  He is vulnerable to bright light.
+He cannot be frightened.  He sometimes appears in groups.  He can hit to 
+stun (+11, 4d7), or bite to wound (+10, 2d11).  He has 15d4 health and a
+defence of [+10, 2d4].  He may carry an object.  
+
+The Ruby serpent  (Red 's')
+=== Num:142  Lev:14  Rar:3  Spd:2  Hp:8d4  A great serpent with scales of
+gleaming ruby. An intense heat radiates from it.
+This serpent is normally found at depths of 700 feet.  It may breathe fire
+(6d4). It is unintelligent.  It is vulnerable to cold.  It resists fire.  
+It can bite to burn (+14, 2d6).  It has 8d4 health and a defence of [+10,
+5d4].  
+
+The Creeping horror  (Green 'H')
+=== Num:143  Lev:14  Rar:4  Spd:1  Hp:14d4  It slithers and crawls across
+the floor towards you. The thought of it catching you tears at your mind.
+This creature is normally found at depths of 700 feet, and moves slowly.  
+It may attempt to terrify.  It can produce an unnatural darkness and bash
+down doors.  It is unintelligent.  It is vulnerable to bright light.  It
+cannot be frightened.  It can claw to corrode (+18, 3d10).  It has 14d4 
+health and a defence of [+13, 2d4].  
+
+The Ringrauko  (L.Blue 'R')
+=== Num:144  Lev:14  Rar:1  Spd:2  Hp:10d4  A chill hangs in the air
+around this figure which is almost that of a person. A cold gleaming blade
+is in its hand.
+This rauko is normally found at depths of 700 feet.  It can bash down doors.
+It is vulnerable to fire.  It resists cold.  It can hit to freeze (+15,
+2d8).  It has 10d4 health and a defence of [+14, 2d4].  
+
+The Emerald serpent  (Green 's')
+=== Num:151  Lev:15  Rar:3  Spd:2  Hp:8d4  A great serpent with scales of
+gleaming emerald. Noxious vapours surround it.
+This serpent is normally found at depths of 750 feet.  It may breathe 
+poison (6d4). It is unintelligent.  It resists poison.  It can bite to 
+poison (+15, 2d6).  It has 8d4 health and a defence of [+11, 5d4].  
+
+The Oathwraith  (L.Dark 'W')
+=== Num:152  Lev:15  Rar:4  Spd:2  Hp:12d4  A figure that seems made of
+void, its strangely human shape is cloaked in shadow.  It reaches out at
+you.
+This undead creature is normally found at depths of 750 feet.  It may 
+attempt to entrance.  It is resistant to critical hits.  It is vulnerable
+to bright light.  It resists cold and poison.  It cannot be frightened, 
+confused or put to sleep.  It can touch to cause hunger (+19).  It has 
+12d4 health and a defence of [+14, 3d4].  It may carry an object.  
+
+The Deathblade  (L.Dark '|')
+=== Num:153  Lev:15  Rar:8  Spd:3  Hp:10d4  A black blade, wreathed in
+shadow.
+This creature is normally found at depths of 750 feet, and moves quickly.  
+It is resistant to critical hits.  It is unintelligent.  It resists fire, 
+cold and poison.  It cannot be frightened, confused or put to sleep.  It
+can hit to attack (+25, 1d9).  It has 10d4 health and a defence of [+18,
+5d4].  
+
+The Cat warrior  (L.Umber 'f')
+=== Num:154  Lev:15  Rar:1  Spd:3  Hp:10d4  It is as though a great cat
+stood like a man. You cannot tell whether its long scything claws could be
+natural. It moves with astonishing speed and agility.
+This creature is normally found at depths of 750 feet, and moves quickly.  
+It can open doors, unlock doors and bash down doors.  It usually appears
+in groups.  It can claw to wound (+20, 1d9).  It has 10d4 health and a
+defence of [+19, 1d4].  It may carry an object.  
+
+The Greater werewolf  (L.Dark 'C')
+=== Num:161  Lev:16  Rar:1  Spd:3  Hp:15d4  It is a huge wolf with eyes
+that glow with manly intelligence.
+This wolf is normally found at depths of 800 feet, and moves a bit
+erratically, and quickly.  It can open doors and bash down doors.  It
+sometimes appears in groups.  It can claw to wound (+19, 3d7), or bite to 
+poison (+13, 2d11).  It has 15d4 health and a defence of [+17, 2d4].  
+
+The Amethyst serpent  (Violet 's')
+=== Num:162  Lev:16  Rar:3  Spd:2  Hp:8d4  A great serpent with scales of
+darkly glinting amethyst. Shadows darken as it approaches.
+This serpent is normally found at depths of 800 feet.  It may breathe 
+darkness (6d4). It can produce an unnatural darkness.  It is
+unintelligent.  It is vulnerable to bright light.  It can bite to darken
+(+16, 2d6).  It has 8d4 health and a defence of [+12, 5d4].  
+
+The Kemenrauko  (Slate 'R')
+=== Num:163  Lev:16  Rar:2  Spd:2  Hp:10d4  It seems the very stone from
+which Angband is carved is now coming at you. Great fists of rock swing
+menacingly at its sides.
+This rauko is normally found at depths of 800 feet.  It can bash down doors 
+and bore through walls.  It is resistant to critical hits.  It is
+vulnerable to shattering.  It resists fire, cold and poison.  It can hit
+to cause earthquakes (+11, 4d8).  It has 10d4 health and a defence of 
+[+14, 4d4].  
+
+The Young cold-drake  (White 'd')
+=== Num:164  Lev:16  Rar:6  Spd:2  Hp:30d4  Not all dragons have the gift
+of fire, but it is hardly needed -- the lashing tail, the great claws, the
+sharp teeth, and the mesmerising eyes...
+This dragon is normally found at depths of 800 feet.  It does not deign to
+pursue you.  It may attempt to remove memories, terrify, confuse, or 
+entrance.  It can bash down doors.  It can claw to attack (+16, 3d11), or 
+bite to wound (+12, 2d21).  It has 30d4 health and a defence of [+11,
+2d4].  It may be found with one or two objects.  
+
+The Grotesque  (L.Slate 'H')
+=== Num:165  Lev:16  Rar:5  Spd:4  Hp:10d4  'Huge shapes there stood like
+carven trolls enormous hewn of blasted rock to forms that mortal likeness
+mock; monstrous and menacing, entombed, at every turn they silent loomed
+in fitful glares that leaped and died.'
+This creature is normally found at depths of 800 feet, and never moves
+when you are looking.  It can open doors and bash down doors.  It cannot
+be critically hit.  It is mindless.  It is vulnerable to shattering.  It
+resists fire, cold and poison.  It cannot be frightened, confused or put
+to sleep.  It can claw to wound (+16, 3d9).  It has 10d4 health and a
+defence of [-5, 8d4].  
+
+[U] Umuiyan, the Doorkeeper  (Yellow 'f')
+=== Num:166  Lev:16  Rar:15  Spd:3  Hp:32  This cat seems older than most,
+and more wiley. He has long guarded the entrance to the fortress of
+Tevildo.
+This creature is normally found at depths of 800 feet, and moves quickly.  
+He may fire a shortbow (+21, 1d7).  He can open doors, unlock doors and 
+bash down doors.  He usually appears with escorts.  He can claw to wound
+(+25, 1d11).  He has 32 health and a defence of [+22, 1d4].  He may carry a 
+good object.  
+
+The Spider of Gorgoroth  (Red 'M')
+=== Num:171  Lev:17  Rar:1  Spd:2  Hp:15d4  This terrifying spider was one
+of the brood laid by the Unlight, Ungoliant, in the mountains of Ered
+Gorgoroth. Some have made their way North to Angband, and crept down to
+the very darkest parts of the stronghold.
+This spider is normally found at depths of 850 feet.  It does not deign to
+pursue you.  It can produce an unnatural darkness and bash down doors.  It
+is vulnerable to bright light.  It resists poison.  It can bite to entrace
+(+14, 2d13).  It has 15d4 health and a defence of [+14, 1d4].  
+
+The Troll guard  (Slate 'T')
+=== Num:172  Lev:17  Rar:1  Spd:2  Hp:18d4  The very largest and toughest
+of the trolls are taken into the train of Gothmog. They are trained for
+war and given dark armour and great vicious weapons.
+This troll is normally found at depths of 850 feet.  It can open doors and 
+bash down doors.  It regenerates quickly.  It is vulnerable to bright light.
+It cannot be frightened.  It usually appears in groups.  It can hit to 
+stun (+14, 4d8).  It has 18d4 health and a defence of [+12, 3d4].  It may
+carry an object.  
+
+The Adamant serpent  (Violet 's')
+=== Num:173  Lev:17  Rar:3  Spd:2  Hp:8d4  A great serpent with scales of
+gleaming diamond. It sparkles with prismatic hues.
+This serpent is normally found at depths of 850 feet.  It may breathe fire,
+frost, poison, or darkness (6d4). It is unintelligent.  It resists fire, 
+cold and poison.  It can bite to wound (+17, 3d6).  It has 8d4 health and
+a defence of [+13, 5d4].  
+
+The Lesser vampire  (Slate 'v')
+=== Num:174  Lev:17  Rar:1  Spd:3  Hp:8d4  It flits quickly back and
+forth, like a great bat, although surely no bat could harbour so much
+malice behind its eyes.
+This creature is normally found at depths of 850 feet, and moves somewhat
+erratically, and quickly.  It can open doors and unlock doors.  It is
+vulnerable to bright light.  It can claw to wound (+22, 3d5), or bite to 
+reduce constitution (+17, 2d7).  It has 8d4 health and a defence of [+21,
+1d4].  
+
+The Cat assassin  (L.Dark 'f')
+=== Num:175  Lev:17  Rar:3  Spd:3  Hp:8d4  Slinking in the shadows, this
+jet-black cat is hard to discern even as it fires its cruel bow.
+This creature is normally found at depths of 850 feet, and moves quickly.  
+It may fire a shortbow (+21, 1d7).  It can open doors, unlock doors and 
+bash down doors.  It is very difficult to see.  It sometimes appears in
+groups.  It can claw to wound (+20, 1d11).  It has 8d4 health and a
+defence of [+20, 1d4].  It may carry an object.  
+
+[U] Scatha the Worm  (L.Blue 'd')
+=== Num:176  Lev:17  Rar:15  Spd:2  Hp:87  A long and sinuous worm,
+coiling on the floor. His claws are sharp, and by some force,  cunning or
+treachery his hoard is large for a young worm.
+This dragon is normally found at depths of 850 feet.  He does not deign to
+pursue you.  He may attempt to remove memories, terrify, confuse, or 
+entrance.  He can bash down doors.  He can claw to attack (+20, 3d11), or 
+bite to wound (+17, 2d21).  He has 87 health and a defence of [+14, 2d4].  
+He may be found with up to 4 good objects.  
+
+[U] Oikeroi, Guard of Tevildo  (Orange 'f')
+=== Num:177  Lev:17  Rar:15  Spd:3  Hp:45  A fierce and warlike cat, thane
+of Tevildo and ever at his side.
+This creature is normally found at depths of 850 feet, and moves quickly.  
+He can open doors, unlock doors and bash down doors.  He can claw to wound
+(+28, 1d11).  He has 45 health and a defence of [+22, 1d4].  He may carry
+one or two good objects.  
+
+The Young fire-drake  (Red 'd')
+=== Num:181  Lev:18  Rar:6  Spd:2  Hp:30d4  ...no feet he heard, though
+the earth quaked. when the young dragon his thirst slaked. and the stream
+smoked at his dark door. The flames hissed on the dank floor, and he died
+alone in the red fire; his bones were ashes in the hot mire.
+This dragon is normally found at depths of 900 feet.  It does not deign to
+pursue you.  It may breathe fire (16d4). It may attempt to terrify.  It
+can bash down doors.  It is vulnerable to cold.  It resists fire.  It can 
+claw to attack (+18, 3d11), or bite to burn (+14, 2d21).  It has 30d4 
+health and a defence of [+13, 2d4].  It may be found with one or two object
+s.  
+
+The Darting horror  (Red 'H')
+=== Num:182  Lev:18  Rar:5  Spd:4  Hp:8d4   No larger than a large dog,
+but much swifter, it is hard to comprehend what evil thought first brought
+this into the world. You would prefer not to see it any closer.
+This creature is normally found at depths of 900 feet, and moves a bit
+erratically, and very quickly.  It may attempt to terrify.  It can bash
+down doors.  It is unintelligent.  It cannot be frightened.  It can bite
+to induce hallucinations (+22, 2d9).  It has 8d4 health and a defence of 
+[+20, 2d4].  
+
+The Unmourned  (Violet 'W')
+=== Num:183  Lev:18  Rar:6  Spd:1  Hp:12d4   The shades of elves and men
+who have rotted away, forgotten, in the deep dungeons of Angband.
+This undead creature is normally found at depths of 900 feet, and moves
+slowly.  It can pass through walls.  It is resistant to critical hits.  It
+is vulnerable to bright light.  It resists cold and poison.  It cannot be 
+frightened, confused or put to sleep.  It usually appears in groups.  It
+can touch to cause hunger (+22).  It has 12d4 health and a defence of 
+[+17, 3d4].  It has 12 Will, 9 Perception, and is never found asleep.  
+
+The Ururauko  (L.Red 'R')
+=== Num:184  Lev:18  Rar:1  Spd:2  Hp:4d4  A form of pure flame, it is
+bright to look at and hard to tell the shape. A lesser relative, perhaps,
+of Arien, who guides the Sun, it was one of those who flocked to the
+banner of Melkor when the World was yet young.
+This rauko is normally found at depths of 900 feet.  It can radiate light
+and bash down doors.  It is vulnerable to cold.  It resists fire.  It can 
+hit to burn (+26, 4d10).  It has 4d4 health and a defence of [+15, 2d4].  
+It has 12 Will, 8 Perception, and is never found asleep.  
+
+[U] The Deathblade 'Delmereth'  (L.Dark '|')
+=== Num:185  Lev:18  Rar:50  Spd:3  Hp:25  You are filled with dread as
+you look upon this black blade. You know not who forged it, or how.
+'Horror-feast' is its name. You can feel its hunger.
+This creature is normally found at depths of 900 feet, and moves quickly.  
+It is resistant to critical hits.  It is unintelligent.  It resists fire, 
+cold and poison.  It cannot be frightened, confused or put to sleep.  It
+can hit to attack (+33, 1d9).  It has 25 health and a defence of [+22,
+5d4].  
+
+[U] Tevildo, Prince of Cats  (Umber 'f')
+=== Num:186  Lev:18  Rar:10  Spd:3  Hp:35  Renowned for his cruelty even
+among the cruel cat-people, is it a wonder that this fierce warrior is
+royalty?
+This creature is normally found at depths of 900 feet, and moves quickly.  
+He can open doors, unlock doors and bash down doors.  He can claw to wound
+(+28, 1d13).  He has 35 health and a defence of [+24, 1d4].  He may carry
+one or two exceptional objects.  
+
+The Ancient sapphire serpent  (Blue 'S')
+=== Num:191  Lev:19  Rar:6  Spd:2  Hp:10d4  A vast serpentine form
+encrusted with scales of sapphire. Frost covers it from head to tail.
+This serpent is normally found at depths of 950 feet.  It may breathe 
+frost (8d4). It is surrounded by frost.  It is vulnerable to fire.  It
+resists cold.  It can bite to freeze (+19, 2d9).  It has 10d4 health and a
+defence of [+15, 7d4].  
+
+The Vampire  (L.Slate 'v')
+=== Num:192  Lev:19  Rar:1  Spd:3  Hp:10d4  A nightmarish bat-like form,
+the size of a man.
+This creature is normally found at depths of 950 feet, and moves a bit
+erratically, and quickly.  It can open doors and unlock doors.  It is
+vulnerable to bright light.  It can claw to wound (+25, 3d5), or bite to 
+reduce strength and constitution (+20, 2d9).  It has 10d4 health and a
+defence of [+24, 1d4].  It has 12 Will, 10 Perception, and often found
+asleep.  
+
+The Nameless thing  (Slate 'N')
+=== Num:193  Lev:19  Rar:1  Spd:1  Hp:70d4  'Far, far below the deepest
+delvings of the Dwarves, the world is gnawed by nameless things...' It is
+as a vast grub, eating its way through the roots of the earth.
+This creature is found at depths of 950 feet, and moves extremely
+erratically, and slowly.  It does not deign to pursue you.  It can bash
+down doors and bore through walls.  It regenerates quickly.  It is
+mindless.  It can crush to corrode (+17, 5d10).  It has 70d4 health and a
+defence of [+7, 6d4].  
+
+[U] Dagorhir, the Elfbane  (Red 'T')
+=== Num:194  Lev:19  Rar:15  Spd:2  Hp:62  A mountain of a troll, clad in
+deep-red iron plates. He leads a patrol of the feared Troll Guard.
+This troll is normally found at depths of 950 feet.  It can open doors and 
+bash down doors.  It regenerates quickly.  It is vulnerable to bright light.
+It cannot be frightened.  It usually appears with escorts.  It can hit to 
+stun (+17, 4d10).  It has 62 health and a defence of [+17, 3d4].  It may
+carry one or two good objects.  
+
+[U] Maeglin, Betrayer of Gondolin  (L.Dark '@')
+=== Num:195  Lev:19  Rar:100  Spd:2  Hp:37  Named "sharp-glance" by his
+father Eol, the dark elf. Maeglin was close in the counsels of Turgon,
+King of Gondolin, but betrayed him to the black enemy Morgoth Bauglir. Who
+can say what twist of fate has brought him at last to that dark king's
+deep halls?
+This creature is normally found at depths of 950 feet.  He can use a light
+source, open doors, unlock doors, bash down doors and pick up objects.  He
+can hit to attack (+31, 2d8).  He has 37 health and a defence of [+21,
+5d4].  He may carry one or two exceptional objects.  
+
+The Ancient ruby serpent  (Red 'S')
+=== Num:201  Lev:20  Rar:3  Spd:2  Hp:10d4  A vast serpentine form
+encrusted with scales of ruby. Wisps of smoke rise from its nostrils and
+the extreme heat surrounding it makes you gasp for breath.
+This serpent is normally found at depths of 1000 feet.  It may breathe 
+fire (8d4). It is surrounded by fire.  It is unintelligent.  It is
+vulnerable to cold.  It resists fire.  It can bite to burn (+20, 2d9).  It
+has 10d4 health and a defence of [+16, 7d4].  
+
+The Great cold-drake  (L.Slate 'D')
+=== Num:202  Lev:20  Rar:6  Spd:2  Hp:50d4  Dragons never stop growing,
+and may reach a dreadful size. The oldest of the dragons are both vast and
+cunning beyond the understanding of mortals.
+This dragon is normally found at depths of 1000 feet.  It does not deign
+to pursue you.  It may attempt to remove memories, terrify, confuse, or 
+entrance.  It can bash down doors.  It can claw to attack (+21, 3d13), or 
+bite to wound (+16, 2d23).  It has 50d4 health and a defence of [+13,
+2d4].  It has 17 Will, 9 Perception, and usually found asleep.  It may be
+found with up to 4 good objects.  
+
+The Silent watcher  (Slate 'H')
+=== Num:203  Lev:20  Rar:10  Spd:2  Hp:10d4  They were like great figures
+seated upon thrones. Each had three joined bodies, and three heads facing
+outward, and inward, and across the gateway. The heads had vulture-faces,
+and on their great knees were laid clawlike hands. They seemed to be
+carved out of huge blocks of stone, immovable, and yet they were aware:
+some dreadful spirit of evil vigilance abode in them. They knew an enemy.
+Visible or invisible none could pass unheeded. They would forbid his
+entry, or his escape.
+This creature is normally found at depths of 1000 feet, and cannot move.  
+It may attempt to cause a hideous screeching.  It cannot be critically
+hit.  It is unintelligent.  It is vulnerable to shattering.  It resists 
+fire, cold and poison.  It cannot be frightened, confused or put to sleep.
+Nothing is known about its attack.  It has 10d4 health and a defence of 
+[-5, 8d4].  
+
+The Gwathrauko  (L.Dark 'R')
+=== Num:204  Lev:20  Rar:1  Spd:2  Hp:8d4  A spirit of Darkness itself, it
+was easily swayed to Melkor's side when his black banner was raised in
+defiance of Iluvatar.
+This rauko is normally found at depths of 1000 feet.  It can produce an
+unnatural darkness and bash down doors.  It is vulnerable to bright light.
+It can hit to darken (+18, 2d8).  It has 8d4 health and a defence of [+18,
+3d4].  It has 13 Will, 8 Perception, and is never found asleep.  
+
+[U] Draugluin, Sire of Werewolves  (L.Slate 'C')
+=== Num:205  Lev:20  Rar:15  Spd:3  Hp:55  Draugluin provides Sauron with
+a fearsome personal guard.  He is an enormous wolf inhabited with a human
+spirit.  He is chief of all his kind.
+This wolf is normally found at depths of 1000 feet, and moves a bit
+erratically, and quickly.  He can open doors and bash down doors.  He
+usually appears with escorts.  He can claw to wound (+26, 3d9), or bite to 
+poison (+20, 2d13).  He has 55 health and a defence of [+24, 3d4].  He may
+carry one or two objects.  
+
+The Ancient spider  (Green 'M')
+=== Num:211  Lev:21  Rar:3  Spd:2  Hp:15d4  One of the oldest of brood of
+Ungoliant, its huge bloated body drips with venom.
+This spider is normally found at depths of 1000 feet.  It does not deign
+to pursue you.  It can bash down doors.  It resists poison.  It can bite
+to poison (+20, 2d15).  It has 15d4 health and a defence of [+19, 1d4].  
+It has 14 Will, 8 Perception, and is sometimes found asleep.  
+
+The Ancient emerald serpent  (Green 'S')
+=== Num:212  Lev:21  Rar:3  Spd:2  Hp:10d4  A vast serpentine form
+encrusted with scales of emerald. It is enveloped in clouds of poisonous
+vapour.
+This serpent is normally found at depths of 1000 feet.  It may breathe 
+poison (8d4). It is surrounded by noxious gases.  It is unintelligent.  It
+resists poison.  It can bite to poison (+21, 2d9).  It has 10d4 health and
+a defence of [+17, 7d4].  
+
+The Vampire lord  (Violet 'v')
+=== Num:213  Lev:21  Rar:2  Spd:3  Hp:15d4  Like a graceful, humanoid bat.
+Its black eyes regard everything around it as prey.
+This creature is normally found at depths of 1000 feet, and moves a bit
+erratically, and quickly.  It can open doors, unlock doors and bash down
+doors.  It is vulnerable to bright light.  It can claw to wound (+29, 3d7),
+or bite to reduce all stats (+24, 2d9).  It has 15d4 health and a defence
+of [+26, 2d4].  
+
+[U] Lungorthin, the Balrog of White Fire  (White 'R')
+=== Num:214  Lev:21  Rar:5  Spd:2  Hp:75  A massive form cloaked in flame.
+Lungorthin stares balefully at you with eyes that smoulder.  The dungeon
+floor where he stands is scorched by the heat of his body.
+This rauko is normally found at depths of 1000 feet.  He can produce an
+unnatural darkness and bash down doors.  He is vulnerable to bright light
+and cold.  He resists fire.  He can hit to burn (+27, 2d12), or whip to 
+disarm (+22, 3d6).  He has 75 health and a defence of [+23, 4d4].  He may
+carry up to 4 exceptional objects.  
+
+The Ancient amethyst serpent  (Violet 'S')
+=== Num:221  Lev:22  Rar:3  Spd:2  Hp:10d4  A vast serpentine form
+encrusted with scales of amethyst. It is wreathed in shadow.
+This serpent is normally found at depths of 1000 feet.  It may breathe 
+darkness (8d4). It can produce an unnatural darkness.  It is
+unintelligent.  It is vulnerable to bright light.  It can bite to darken
+(+22, 2d9).  It has 10d4 health and a defence of [+18, 7d4].  
+
+The Great fire-drake  (Red 'D')
+=== Num:222  Lev:22  Rar:6  Spd:2  Hp:50d4  .
+This dragon is normally found at depths of 1000 feet.  It does not deign
+to pursue you.  It may breathe fire (24d4). It may attempt to terrify or 
+entrance.  It can bash down doors.  It is vulnerable to cold.  It resists 
+fire.  It can claw to attack (+23, 3d13), or bite to burn (+18, 2d23).  It
+has 50d4 health and a defence of [+14, 2d4].  It may be found with up to 4
+good objects.  
+
+The Hithrauko  (L.Blue 'R')
+=== Num:223  Lev:22  Rar:2  Spd:3  Hp:4d4  .
+This rauko is normally found at depths of 1000 feet, and moves somewhat
+erratically, and quickly.  It can bash down doors.  It is very difficult
+to see.  It is resistant to critical hits.  It resists poison.  It can 
+engulf to induce hallucinations (+27, 4d5).  It has 4d4 health and a
+defence of [+17, 4d4].  
+
+[U] Shelob, Spider of Darkness  (L.Dark 'M')
+=== Num:224  Lev:22  Rar:15  Spd:2  Hp:45  .
+This spider is normally found at depths of 1000 feet.  She does not deign
+to pursue you.  She can produce an unnatural darkness and bash down doors.
+She is vulnerable to bright light.  She resists poison.  She can bite to 
+entrace (+25, 2d13).  She has 45 health and a defence of [+20, 2d4].  
+
+[U] Smaug the Golden  (Yellow 'd')
+=== Num:225  Lev:22  Rar:10  Spd:3  Hp:87  .
+This dragon is normally found at depths of 1000 feet, and moves quickly.  
+He does not deign to pursue you.  He may breathe fire (20d4). He may 
+attempt to confuse or entrance.  He can bash down doors.  He is vulnerable
+to cold.  He resists fire.  He can claw to attack (+26, 3d11), or bite to 
+burn (+22, 2d21).  He has 87 health and a defence of [+15, 2d4].  He may
+be found with up to 4 good objects.  
+
+The Ancient adamant serpent  (Violet 'S')
+=== Num:231  Lev:23  Rar:3  Spd:2  Hp:10d4  A vast serpentine form
+encrusted with scales of adamant. Prismatic colours gleam in its scales.
+Few live to see another.
+This serpent is normally found at depths of 1000 feet.  It may breathe 
+fire, frost, poison, or darkness (8d4). It is surrounded by an
+ever-changing cloud of elements.  It is unintelligent.  It resists fire, 
+cold and poison.  It can bite to wound (+23, 3d9).  It has 10d4 health and
+a defence of [+19, 7d4].  
+
+The Unrelenting horror  (L.Green 'H')
+=== Num:232  Lev:23  Rar:2  Spd:1  Hp:100d4  .
+This creature is normally found at depths of 1000 feet, and moves slowly.  
+It may attempt to terrify.  It can bash down doors.  It regenerates
+quickly.  It is unintelligent.  It cannot be frightened.  It can bite to 
+poison (+24, 6d5).  It has 100d4 health and a defence of [+11, 3d4].  
+
+[U] Ancalagon the Black  (L.Dark 'd')
+=== Num:233  Lev:23  Rar:6  Spd:3  Hp:87  Out of the pits of Angband there
+issued the winged dragons, that had not before been seen; and so sudden
+and ruinous was the onset of that dreadful fleet that the host of the
+Valar was driven back, for the coming of the dragons was with great
+thunder, and lightning, and a tempest of fire.
+This dragon is normally found at depths of 1000 feet, and moves quickly.  
+He does not deign to pursue you.  He may breathe fire (20d4). He can bash
+down doors.  He is vulnerable to cold.  He resists fire.  He can claw to 
+attack (+29, 3d11), or bite to burn (+25, 2d21).  He has 87 health and a
+defence of [+17, 2d4].  He may be found with up to 4 exceptional objects.  
+
+
+[U] Thuringwethil, the Vampire Messenger  (L.Dark 'v')
+=== Num:234  Lev:23  Rar:3  Spd:4  Hp:40  Chief messenger between Sauron
+and Morgoth, she is surely the most deadly of her vampire race.  At first
+she is charming to meet, but her wings and eyes give away her true form.
+This creature is normally found at depths of 1000 feet, and moves a bit
+erratically, and very quickly.  She can open doors, unlock doors and bash
+down doors.  She regenerates quickly.  She is vulnerable to bright light.  
+She can claw to wound (+35, 3d7), or bite to reduce all stats (+29, 2d9).  
+She has 40 health and a defence of [+30, 2d4].  She may carry up to 4 good
+objects.  
+
+[U] Gothmog, High Captain of Balrogs  (Red 'R')
+=== Num:241  Lev:24  Rar:3  Spd:2  Hp:87  Gothmog is the High Captain of
+Angband and Morgoth's personal guard.  He is renowned for slaying Feanor
+and Fingon, two of the High Kings of the Noldor Elves, and has never been
+defeated in combat.  With his whip of flame and awesome fiery breath he
+saved his master from Ungoliant's rage.
+This rauko is normally found at depths of 1000 feet.  He can produce an
+unnatural darkness and bash down doors.  He is vulnerable to bright light
+and cold.  He resists fire.  He can hit to burn (+30, 3d12), or whip to 
+disarm (+25, 3d8).  He has 87 health and a defence of [+24, 5d4].  He may
+carry up to 4 exceptional objects.  
+
+[U] Ungoliant, the Gloomweaver  (L.Dark 'M')
+=== Num:242  Lev:24  Rar:3  Spd:2  Hp:62  This enormous, hideous spirit of
+void is in the form of a spider of immense proportions.  She is surrounded
+by a cloud of Unlight as she sucks in all living light into her bloated
+body, and breathes out the blackest of darkness.  She is always ravenously
+hungry and would even eat herself to avoid starvation.
+This spider is normally found at depths of 1000 feet.  She does not deign
+to pursue you.  She may breathe darkness (8d4). She can produce an
+unnatural darkness and bash down doors.  She is vulnerable to bright light.
+She resists poison.  She can bite to poison (+22, 2d15).  She has 62 
+health and a defence of [+20, 3d4].  
+
+[U] Glaurung, the Deceiver  (Yellow 'D')
+=== Num:243  Lev:24  Rar:3  Spd:2  Hp:150  Lo! the golden dragon of the
+God of Hell... Father and forefather to the other dragons, he is grown now
+to an enormous size, matched only by the size of the hoard he has gathered
+around him.
+This dragon is normally found at depths of 1000 feet.  He does not deign
+to pursue you.  He may breathe fire (28d4). He may attempt to remove
+memories, terrify, confuse, or entrance.  He can bash down doors.  He is
+vulnerable to cold.  He resists fire.  He can claw to attack (+29, 3d15),
+or bite to burn (+24, 2d25).  He has 150 health and a defence of [+16,
+2d4].  He may be found with up to 6 exceptional objects.  
+
+[U] Gorthaur, Servant of Morgoth  (Umber 'C')
+=== Num:244  Lev:24  Rar:3  Spd:3  Hp:62  He is Morgoth's most powerful
+servant.  His eyes glow with power and his gaze seeks to destroy your
+soul.  He has many servants, and rarely fights without them.
+This wolf is normally found at depths of 1000 feet, and moves quickly.  He
+may attempt to terrify.  He can open doors, unlock doors and bash down
+doors.  He usually appears with escorts.  He can claw to wound (+32, 3d9),
+or bite to poison (+26, 2d15).  He has 62 health and a defence of [+27,
+3d4].  He may carry up to 4 exceptional objects.  
+
+[Q] Morgoth, Lord of Darkness  (L.Dark 'V')
+=== Num:251  Lev:25  Rar:1  Spd:2  Hp:500  He is the Master of the Pits of
+Angband.  His figure is like a black mountain crowned with lightning.  He
+rages with everlasting anger, his body scarred by Fingolfin's eight mighty
+wounds.  He can never rest from his pain, but seeks forever to dominate
+all that is light and good in the world.  He is the origin of man's fear
+of darkness and created many foul creatures with his evil powers.  Orcs,
+Dragons, and Trolls are his most foul corruptions, causing much pain and
+suffering in the world to please him.  His disgusting visage, twisted with
+evil, is crowned with iron, the three Silmarils forever burning him. 
+Grond, the mighty Hammer of the Underworld, cries defiance as he strides
+towards you to crush you to a pulp! 
+This creature is normally found at depths of 1000 feet.  He may attempt to 
+cause earthquakes.  He can radiate light, open doors, unlock doors and 
+bash down doors.  He regenerates quickly.  He cannot be frightened.  He
+can hit to cause earthquakes (+20, 6d10).  He has 500 health and a defence
+of [+20, 6d4].  He may carry up to 6 exceptional objects.  
+
+[Q] Morgoth, Lord of Darkness  (L.Dark 'V')
+=== Num:252  Lev:25  Rar:0  Spd:2  Hp:500  He is the Master of the Pits of
+Angband.  His figure is like a black mountain crowned with lightning.  He
+rages with everlasting anger, his body scarred by Fingolfin's eight mighty
+wounds.  He can never rest from his pain, but seeks forever to dominate
+all that is light and good in the world.  He is the origin of man's fear
+of darkness and created many foul creatures with his evil powers.  Orcs,
+Dragons, and Trolls are his most foul corruptions, causing much pain and
+suffering in the world to please him.  Grond, the mighty Hammer of the
+Underworld, cries defiance as he strides towards you to crush you to a
+pulp! 
+This creature is found at depths of 1000 feet.  He may attempt to cause
+earthquakes.  He can open doors, unlock doors and bash down doors.  He
+regenerates quickly.  He cannot be frightened.  He can hit to cause
+earthquakes (+20, 6d10).  He has 500 health and a defence of [+20, 5d4].  
+He may carry up to 6 exceptional objects.  
+
+[U] Carcharoth, the Jaws of Thirst  (Red 'C')
+=== Num:253  Lev:25  Rar:1  Spd:4  Hp:62  At last before them far away
+they saw the glimmering wraith of day, the mighty archway of the gate -
+and there a horror new did wait. Upon the threshold, watchful, dire, his
+eyes new-kindled with dull fire, towered Carcharoth, a biding doom: his
+jaws were gaping like a tomb, his teeth were bare, his tongue aflame;
+aroused he watched that no one came, no flitting shade nor hunted shape,
+seeking from Angband to escape.
+This wolf is found guarding the gates of Angband, and moves very quickly.  
+He can bite to poison (+27, 2d17).  He has 62 health and a defence of 
+[+27, 2d4].  
+
+[U] Feanor, High King of the Noldor  (Blue '@')
+=== Num:301  Lev:30  Rar:5  Spd:0  Hp:0  
+This creature is normally found at depths of 1000 feet, and moves slowly.  
+He is unintelligent.  Nothing is known about his attack.  He has 0 health 
+and a defence of [+0].  
+
+[U] Luthien Tinuviel  (Blue '@')
+=== Num:302  Lev:30  Rar:5  Spd:0  Hp:0  
+This creature is normally found at depths of 1000 feet, and moves slowly.  
+He is unintelligent.  Nothing is known about his attack.  He has 0 health 
+and a defence of [+0].  
+
+[U] Thingol, the Hidden King  (Slate '@')
+=== Num:303  Lev:30  Rar:5  Spd:0  Hp:0  
+This creature is normally found at depths of 1000 feet, and moves slowly.  
+He is unintelligent.  Nothing is known about his attack.  He has 0 health 
+and a defence of [+0].  
+
+[U] Beren, Son of Barahir  (Umber '@')
+=== Num:304  Lev:30  Rar:5  Spd:0  Hp:0  
+This creature is normally found at depths of 1000 feet, and moves slowly.  
+He is unintelligent.  Nothing is known about his attack.  He has 0 health 
+and a defence of [+0].  
+
+[U] Huan, Hound of Valinor  (Yellow 'C')
+=== Num:305  Lev:30  Rar:5  Spd:0  Hp:0  
+This creature is normally found at depths of 1000 feet, and moves slowly.  
+He is unintelligent.  Nothing is known about his attack.  He has 0 health 
+and a defence of [+0].  
+
+The Eagle of Manwe  (Yellow 'b')
+=== Num:306  Lev:30  Rar:5  Spd:0  Hp:0d0  
+This creature is normally found at depths of 1000 feet, and moves slowly.  
+It is unintelligent.  Nothing is known about its attack.  It has 0d0 
+health and a defence of [+0].  
+
+[U] Thorondor, King of Eagles  (White 'b')
+=== Num:307  Lev:30  Rar:10  Spd:0  Hp:0  
+This creature is normally found at depths of 1000 feet, and moves slowly.  
+He is unintelligent.  Nothing is known about his attack.  He has 0 health 
+and a defence of [+0].  
+
+The Ent  (Green 'T')
+=== Num:308  Lev:30  Rar:10  Spd:0  Hp:0d0  
+This creature is normally found at depths of 1000 feet, and moves slowly.  
+He is unintelligent.  Nothing is known about his attack.  He has 0d0 
+health and a defence of [+0].  
+
+The Ent-wife  (Green 'T')
+=== Num:309  Lev:30  Rar:10  Spd:0  Hp:0d0  
+This creature is normally found at depths of 1000 feet, and moves slowly.  
+She is unintelligent.  Nothing is known about her attack.  She has 0d0 
+health and a defence of [+0].  
+
+[U] Manwe, Lord of the Breath of Arda  (Violet 'V')
+=== Num:320  Lev:30  Rar:10  Spd:0  Hp:0  
+This creature is normally found at depths of 1000 feet, and moves slowly.  
+He is unintelligent.  Nothing is known about his attack.  He has 0 health 
+and a defence of [+0].  
+
+[U] Varda, Lady of the Stars  (White 'V')
+=== Num:321  Lev:30  Rar:10  Spd:0  Hp:0  
+This creature is normally found at depths of 1000 feet, and moves slowly.  
+She is unintelligent.  Nothing is known about her attack.  She has 0 
+health and a defence of [+0].  
+
+[U] Ulmo, Lord of Waters  (Blue 'V')
+=== Num:322  Lev:30  Rar:20  Spd:0  Hp:0  
+This creature is normally found at depths of 1000 feet, and moves slowly.  
+He is unintelligent.  Nothing is known about his attack.  He has 0 health 
+and a defence of [+0].  
+
+[U] Aule, the Smith  (Red 'V')
+=== Num:323  Lev:30  Rar:20  Spd:0  Hp:0  
+This creature is normally found at depths of 1000 feet, and moves slowly.  
+He is unintelligent.  Nothing is known about his attack.  He has 0 health 
+and a defence of [+0].  
+
+[U] Yavanna, the Giver of Fruits  (L.Green 'V')
+=== Num:324  Lev:30  Rar:30  Spd:0  Hp:0  
+This creature is normally found at depths of 1000 feet, and moves slowly.  
+She is unintelligent.  Nothing is known about her attack.  She has 0 
+health and a defence of [+0].  
+
+[U] Mandos, Doomsman of the Valar  (L.Dark 'V')
+=== Num:325  Lev:30  Rar:10  Spd:0  Hp:0  
+This creature is normally found at depths of 1000 feet, and moves slowly.  
+He is unintelligent.  Nothing is known about his attack.  He has 0 health 
+and a defence of [+0].  
+
+[U] Vaire, the Weaver  (Yellow 'V')
+=== Num:326  Lev:30  Rar:40  Spd:0  Hp:0  
+This creature is normally found at depths of 1000 feet, and moves slowly.  
+She is unintelligent.  Nothing is known about her attack.  She has 0 
+health and a defence of [+0].  
+
+[U] Lorien, Master of Dreams  (Red 'V')
+=== Num:327  Lev:30  Rar:40  Spd:0  Hp:0  
+This creature is normally found at depths of 1000 feet, and moves slowly.  
+He is unintelligent.  Nothing is known about his attack.  He has 0 health 
+and a defence of [+0].  
+
+[U] Este, the Healer  (Slate 'V')
+=== Num:328  Lev:30  Rar:40  Spd:0  Hp:0  
+This creature is normally found at depths of 1000 feet, and moves slowly.  
+She is unintelligent.  Nothing is known about her attack.  She has 0 
+health and a defence of [+0].  
+
+[U] Nienna, Lady of Mourning  (Violet 'V')
+=== Num:329  Lev:30  Rar:40  Spd:0  Hp:0  
+This creature is normally found at depths of 1000 feet, and moves slowly.  
+She is unintelligent.  Nothing is known about her attack.  She has 0 
+health and a defence of [+0].  
+
+[U] Tulkas, the Valiant  (Orange 'V')
+=== Num:330  Lev:30  Rar:10  Spd:0  Hp:0  
+This creature is normally found at depths of 1000 feet, and moves slowly.  
+He is unintelligent.  Nothing is known about his attack.  He has 0 health 
+and a defence of [+0].  
+
+[U] Nessa, the Dancer  (L.Blue 'V')
+=== Num:331  Lev:30  Rar:40  Spd:0  Hp:0  
+This creature is normally found at depths of 1000 feet, and moves slowly.  
+She is unintelligent.  Nothing is known about her attack.  She has 0 
+health and a defence of [+0].  
+
+[U] Orome, Lord of Forests  (Violet 'V')
+=== Num:332  Lev:30  Rar:40  Spd:0  Hp:0  
+This creature is normally found at depths of 1000 feet, and moves slowly.  
+He is unintelligent.  Nothing is known about his attack.  He has 0 health 
+and a defence of [+0].  
+
+[U] Vana, the Ever Young  (L.Slate 'V')
+=== Num:333  Lev:30  Rar:40  Spd:0  Hp:0  
+This creature is normally found at depths of 1000 feet, and moves slowly.  
+She is unintelligent.  Nothing is known about her attack.  She has 0 
+health and a defence of [+0].  
+
+[U] Melkor, Rightful Lord of Arda  (White 'V')
+=== Num:401  Lev:40  Rar:0  Spd:0  Hp:0  Clothed in shining white, he
+appears as a beacon of hope and strength in this fallen world.
+This creature is normally found at depths of 1000 feet, and moves slowly.  
+He is unintelligent.  Nothing is known about his attack.  He has 0 health 
+and a defence of [+0].  
+

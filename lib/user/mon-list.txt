@@ -1,0 +1,118 @@
+Monster Spoilers for Sil Version 1.0
+------------------------------------------
+
+Name                                       Lev / Rar   Spd  Health      Defence               Attacks        
+-----------------------------------------  ---------   ---  ------   ----------    --------------------------
+  o  Orc scout                               1 /  4      2     5d4    [+1, 1d4]      (+1, 2d5)               
+  C  Wolf                                    1 /  1      3     7d4    [+2, 1d4]      (+1, 2d4)               
+  m  Grey mold                               1 /  1      2     8d4    [-5, 2d4]          (1d4)               
+  b  Giant bat                               2 /  1      4     2d4    [+7, 1d4]      (+6, 2d3)               
+  w  White worm mass                         2 /  1      1     6d4    [+0]           (+2, 1d5)*              
+  o  Orc soldier                             3 /  1      2     8d4    [+2, 2d4]      (+1, 2d7)               
+  m  Brown mold                              3 /  1      2     8d4    [-5, 2d4]          (1d4)*              
+  c  Metallic green centipede                3 /  1      3     3d4    [+3, 4d4]      (+4, 2d4)               
+  C  White wolf                              4 /  1      3     9d4    [+5, 1d4]      (+4, 2d5)               
+  b  Crebain                                 4 /  2      4     1d4    [+9]          (+10, 1d5)*              
+  w  Green worm mass                         4 /  2      1     6d4    [+0]           (+4, 2d5)*              
+  o  Orc archer                              5 /  3      2     7d4    [+4, 1d4]      (+5, 2d5)               
+  m  Violet mold                             5 /  2      2     8d4    [-5, 2d4]          (1d4)*              
+  M  Sword spider                            5 /  1      3    12d4    [+6, 1d4]      (+7, 2d9)               
+  I  Hummerhorn                              5 /  3      4     1d4   [+11]          (+10, 1d7)*              
+* o  Gorgol, the Butcher                     5 / 10      2      30    [+4, 3d4]      (+6, 3d7)               
+  o  Orc warrior                             6 /  1      2     9d4    [+5, 2d4]      (+3, 3d7)               
+  b  Gorcrow                                 6 /  2      4     1d4   [+11]          (+12, 1d5)*              
+  w  Clear worm mass                         6 /  4      1     6d4    [+1]           (+6, 1d5)*              
+  H  Mewlip                                  6 /  3      2    14d4    [+4, 2d4]      (+8, 3d4)*              
+  o  Orc thief                               7 /  3      2     7d4   [+10, 1d4]     (+10, 1d8)     (+7, 0d0)*
+  m  Shadow mold                             7 /  1      2     8d4    [-5, 2d4]          (2d4)*              
+  c  Metallic red centipede                  7 /  1      3     3d4    [+7, 4d4]      (+8, 2d6)               
+  @  Easterling spy                          7 /  3      2     6d4    [+8, 1d4]      (+7, 1d8)               
+  o  Orc champion                            8 /  2      2    11d4    [+5, 3d4]      (+6, 3d8)               
+  w  Violet worm mass                        8 /  3      1     6d4    [+3]           (+5, 3d5)*              
+  T  Mountain troll                          8 /  1      2    15d4    [+4, 2d4]      (+6, 4d5)*              
+  W  Grave wight                             8 /  2      2     4d4    [+6, 2d4]     (+10, 2d9)    (+10, 0d0)*
+  @  Easterling warrior                      8 /  2      2    10d4    [+5, 3d4]      (+7, 2d8)               
+* o  Boldog, the Merciless                   8 / 20      2      32    [+7, 3d4]    (+12, 1d14)               
+  o  Orc captain                             9 /  3      2    10d4    [+7, 3d4]     (+10, 2d8)     (+6, 2d4)*
+  M  Distended spider                        9 /  1      2    18d4    [+6]          (+6, 2d11)*              
+  I  Giant green dragonfly                   9 /  2      4     5d4   [+15]          (+15, 1d7)*              
+  @  Easterling archer                       9 /  5      2     9d4    [+8, 2d4]      (+8, 1d7)               
+  w  Shadow worm mass                       10 /  1      1     6d4    [+5]           (+6, 2d5)*              
+  C  Warg                                   10 /  1      3    13d4   [+11, 2d4]     (+11, 2d7)               
+  W  Barrow wight                           10 /100      2    12d4    [+7, 2d4]     (+12, 2d9)    (+12, 0d0)*
+  I  Giant violet dragonfly                 10 /  1      4     5d4   [+16]          (+16, 1d7)*              
+* @  Uldor, the Accursed                    10 / 10      2      35    [+8, 5d4]     (+14, 2d8)               
+* o  Orcobal, Champion of the Orcs          10 / 15      2      37    [+9, 3d4]     (+10, 3d9)               
+  T  Snow troll                             11 /  1      2    15d4    [+7, 2d4]      (+8, 4d6)*    (+7, 2d9)*
+  I  Giant bronze dragonfly                 11 /  2      4     5d4   [+17]          (+17, 1d7)*              
+  H  Lurking horror                         11 /  5      2    10d4   [+11, 1d4]     (+10, 2d9)*              
+  G  Giant                                  11 /  1      2    30d4    [+5, 1d4]      (+6, 4d9)               
+* @  Ulfang the Black                       11 / 10      2      37   [+12, 4d4]     (+17, 2d8)               
+* o  Othrond, the Orc Lord                  11 / 10      2      37   [+10, 4d4]     (+15, 2d9)    (+12, 2d4)*
+  w  Nether worm mass                       12 /  4      1     6d4    [+7]          (+11, 3d5)*              
+  b  Shadow bat                             12 /  4      4     4d4   [+19, 1d4]     (+17, 2d5)               
+  R  Sulrauko                               12 /  2      2     5d4   [+15, 3d4]     (+14, 3d5)*              
+  d  Fire-drake hatchling                   12 /  6      2    10d4   [+11, 1d4]     (+13, 2d5)*              
+* G  Gilim, the Giant of Eruman             12 / 10      2      80    [+8, 1d4]     (+9, 4d11)               
+  C  Werewolf                               13 /  1      3    14d4   [+14, 2d4]     (+16, 3d5)*   (+10, 2d9)*
+  M  Shadow spider                          13 /  1      3    13d4   [+13, 1d4]     (+12, 2d9)*              
+  W  Shadow                                 13 /  3      2     3d4   [+13, 3d4]     (+16, 2d5)*              
+  s  Sapphire serpent                       13 /  3      2     8d4    [+9, 5d4]     (+13, 2d6)*              
+* G  Nan, the Giant                         13 / 30      2      87   [+10, 1d4]    (+14, 3d13)               
+  T  Cave troll                             14 /  1      2    15d4   [+10, 2d4]     (+11, 4d7)*  (+10, 2d11)*
+  s  Ruby serpent                           14 /  3      2     8d4   [+10, 5d4]     (+14, 2d6)*              
+  H  Creeping horror                        14 /  4      1    14d4   [+13, 2d4]    (+18, 3d10)*              
+  R  Ringrauko                              14 /  1      2    10d4   [+14, 2d4]     (+15, 2d8)*              
+  s  Emerald serpent                        15 /  3      2     8d4   [+11, 5d4]     (+15, 2d6)*              
+  W  Oathwraith                             15 /  4      2    12d4   [+14, 3d4]     (+19, 0d0)*              
+  |  Deathblade                             15 /  8      3    10d4   [+18, 5d4]     (+25, 1d9)               
+  f  Cat warrior                            15 /  1      3    10d4   [+19, 1d4]     (+20, 1d9)*              
+  C  Greater werewolf                       16 /  1      3    15d4   [+17, 2d4]     (+19, 3d7)*  (+13, 2d11)*
+  s  Amethyst serpent                       16 /  3      2     8d4   [+12, 5d4]     (+16, 2d6)*              
+  R  Kemenrauko                             16 /  2      2    10d4   [+14, 4d4]     (+11, 4d8)*              
+  d  Young cold-drake                       16 /  6      2    30d4   [+11, 2d4]    (+16, 3d11)   (+12, 2d21)*
+  H  Grotesque                              16 /  5      4    10d4    [-5, 8d4]     (+16, 3d9)*              
+* f  Umuiyan, the Doorkeeper                16 / 15      3      32   [+22, 1d4]    (+25, 1d11)*              
+  M  Spider of Gorgoroth                    17 /  1      2    15d4   [+14, 1d4]    (+14, 2d13)*              
+  T  Troll guard                            17 /  1      2    18d4   [+12, 3d4]     (+14, 4d8)*              
+  s  Adamant serpent                        17 /  3      2     8d4   [+13, 5d4]     (+17, 3d6)*              
+  v  Lesser vampire                         17 /  1      3     8d4   [+21, 1d4]     (+22, 3d5)*   (+17, 2d7)*
+  f  Cat assassin                           17 /  3      3     8d4   [+20, 1d4]    (+20, 1d11)*              
+* d  Scatha the Worm                        17 / 15      2      87   [+14, 2d4]    (+20, 3d11)   (+17, 2d21)*
+* f  Oikeroi, Guard of Tevildo              17 / 15      3      45   [+22, 1d4]    (+28, 1d11)*              
+  d  Young fire-drake                       18 /  6      2    30d4   [+13, 2d4]    (+18, 3d11)   (+14, 2d21)*
+  H  Darting horror                         18 /  5      4     8d4   [+20, 2d4]     (+22, 2d9)*              
+  W  Unmourned                              18 /  6      1    12d4   [+17, 3d4]     (+22, 0d0)*              
+  R  Ururauko                               18 /  1      2     4d4   [+15, 2d4]    (+26, 4d10)*              
+* |  The Deathblade 'Delmereth'             18 / 50      3      25   [+22, 5d4]     (+33, 1d9)               
+* f  Tevildo, Prince of Cats                18 / 10      3      35   [+24, 1d4]    (+28, 1d13)*              
+  S  Ancient sapphire serpent               19 /  6      2    10d4   [+15, 7d4]     (+19, 2d9)*              
+  v  Vampire                                19 /  1      3    10d4   [+24, 1d4]     (+25, 3d5)*   (+20, 2d9)*
+  N  Nameless thing                         19 /  1      1    70d4    [+7, 6d4]    (+17, 5d10)*              
+* T  Dagorhir, the Elfbane                  19 / 15      2      62   [+17, 3d4]    (+17, 4d10)*              
+* @  Maeglin, Betrayer of Gondolin          19 /100      2      37   [+21, 5d4]     (+31, 2d8)               
+  S  Ancient ruby serpent                   20 /  3      2    10d4   [+16, 7d4]     (+20, 2d9)*              
+  D  Great cold-drake                       20 /  6      2    50d4   [+13, 2d4]    (+21, 3d13)   (+16, 2d23)*
+  H  Silent watcher                         20 / 10      2    10d4    [-5, 8d4]                              
+  R  Gwathrauko                             20 /  1      2     8d4   [+18, 3d4]     (+18, 2d8)*              
+* C  Draugluin, Sire of Werewolves          20 / 15      3      55   [+24, 3d4]     (+26, 3d9)*  (+20, 2d13)*
+  M  Ancient spider                         21 /  3      2    15d4   [+19, 1d4]    (+20, 2d15)*              
+  S  Ancient emerald serpent                21 /  3      2    10d4   [+17, 7d4]     (+21, 2d9)*              
+  v  Vampire lord                           21 /  2      3    15d4   [+26, 2d4]     (+29, 3d7)*   (+24, 2d9)*
+* R  Lungorthin, the Balrog of White Fire   21 /  5      2      75   [+23, 4d4]    (+27, 2d12)*   (+22, 3d6)*
+  S  Ancient amethyst serpent               22 /  3      2    10d4   [+18, 7d4]     (+22, 2d9)*              
+  D  Great fire-drake                       22 /  6      2    50d4   [+14, 2d4]    (+23, 3d13)   (+18, 2d23)*
+  R  Hithrauko                              22 /  2      3     4d4   [+17, 4d4]     (+27, 4d5)*              
+* M  Shelob, Spider of Darkness             22 / 15      2      45   [+20, 2d4]    (+25, 2d13)*              
+* d  Smaug the Golden                       22 / 10      3      87   [+15, 2d4]    (+26, 3d11)   (+22, 2d21)*
+  S  Ancient adamant serpent                23 /  3      2    10d4   [+19, 7d4]     (+23, 3d9)*              
+  H  Unrelenting horror                     23 /  2      1   100d4   [+11, 3d4]     (+24, 6d5)*              
+* d  Ancalagon the Black                    23 /  6      3      87   [+17, 2d4]    (+29, 3d11)   (+25, 2d21)*
+* v  Thuringwethil, the Vampire Messenger   23 /  3      4      40   [+30, 2d4]     (+35, 3d7)*   (+29, 2d9)*
+* R  Gothmog, High Captain of Balrogs       24 /  3      2      87   [+24, 5d4]    (+30, 3d12)*   (+25, 3d8)*
+* M  Ungoliant, the Gloomweaver             24 /  3      2      62   [+20, 3d4]    (+22, 2d15)*              
+* D  Glaurung, the Deceiver                 24 /  3      2     150   [+16, 2d4]    (+29, 3d15)   (+24, 2d25)*
+* C  Gorthaur, Servant of Morgoth           24 /  3      3      62   [+27, 3d4]     (+32, 3d9)*  (+26, 2d15)*
+* V  Morgoth, Lord of Darkness              25 /  1      2     500   [+20, 6d4]    (+20, 6d10)*              
+* C  Carcharoth, the Jaws of Thirst         25 /  1      4      62   [+27, 2d4]    (+27, 2d17)*              
+
